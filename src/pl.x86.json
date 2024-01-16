@@ -1,6 +1,6 @@
 {
 	"name": "npp-pluginList",
-	"version": "1.6.9",
+	"version": "1.6.8",
 	"arch": "32",
 	"npp-plugins": [
 		{
@@ -8,7 +8,7 @@
 			"display-name": "3P - Progress Programmers Pal",
 			"version": "1.8.8",
 			"id": "20a1307444324835f8143987d0e9465d968a74524b6994566eabe84bea8dfbb8",
-			"repository": "https://github.com/jcaillon/3P/releases/download/v1.8.8/3P.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/3P/v1.8.8/3P.zip",
 			"description": "[Requires .NET framework v4.6.1]\r\nDesigned to help writing OpenEdge ABL (formerly known as Progress 4GL) code. It provides :\r\n- a powerful auto-completion\r\n- tool-tips on every words\r\n- a code explorer to quickly navigate through your code\r\n- a file explorer to easily access all your sources\r\n- the ability to run/compile and even PROLINT your source file with an in-line visualization of errors\r\n- more than 50 options to better suit your needs\r\n- and so much more!\r\nVisit https://jcaillon.github.io/3P/ for more details on the plugin",
 			"author": "Julien Caillon",
 			"homepage": "https://jcaillon.github.io/3P/"
@@ -18,7 +18,7 @@
 			"display-name": "ActiveX Plugin",
 			"version": "1.1.8.7",
 			"id": "8a6b9dadbf2ec37d5c60a12a5445f0eec2ef00e6eaa80452925789fd73950193",
-			"repository": "https://sourceforge.net/projects/nppactivexplugin/files/bin/ActiveX_Unicode_1_1_8_7.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/ActiveX/1.1.8.7/ActiveX_Unicode_1_1_8_7.zip",
 			"description": "Allows you to control Notepad++ via ActiveX.\r\nYou can use ActiveX with many scripting languages (VBScript, JScript, PHP, ...) and other languages (C++, C+, VB.NET, Delphi, ...).\r\nSo you are not bound to a single language.",
 			"author": "Bananen-Joe",
 			"homepage": "https://sourceforge.net/projects/nppactivexplugin/"
@@ -26,9 +26,9 @@
 		{
 			"folder-name": "AnalysePlugin",
 			"display-name": "AnalysePlugin",
-			"version": "1.13.49.0",
-			"id": "a5ffe695a7ffc49983ef55a4d5705c522acb12ab7491476639b292ed411b1162",
-			"repository": "https://sourceforge.net/projects/analyseplugin/files/binaries/v01.13-R49/AnalysePlugin-v01.13-R49-x86.zip",
+			"version": "1.14.54.0",
+			"id": "e54286d4ea7678aee2a9e39541d97828c4bed59fad8da6f789ea6a28083a9f71",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/AnalysePlugin/v01.14-R54/AnalysePlugin-v01.14-R54-x86.zip",
 			"description": "AnalysePlugin will help you to search for more than one search pattern at a time. Great for analysing big log files...\r\nLast changes and how to use you will find in Help... in Plugins Menu.",
 			"author": "Mattes H.",
 			"homepage": "https://sourceforge.net/projects/analyseplugin"
@@ -38,7 +38,7 @@
 			"display-name": "Auto Detect Indention",
 			"version": "2.3",
 			"id": "d14d6142d4fee5741c3360069871338867adb81b66a61ee2915e477e9b3f8494",
-			"repository": "https://github.com/Chocobo1/nppAutoDetectIndent/releases/download/2.3/x86.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/nppAutoDetectIndent/v2.3/x86.zip",
 			"description": "Detects indention (tab or spaces) and auto adjust Tab key on-the-fly.",
 			"author": "Mike Tzou (Chocobo1)",
 			"homepage": "https://github.com/Chocobo1/nppAutoDetectIndent"
@@ -50,7 +50,7 @@
 			"npp-compatible-versions": "[7.0,]",
 			"old-versions-compatibility": "[,1.2.4][7.5.1,]",
 			"id": "78f0c074e8d1903459a5acbbcd26614e08169ef4050a5a583d72e85c71a1f906",
-			"repository": "https://sourceforge.net/projects/autocodepage/files/v1.2.6/plugin/x86/AutoCodepage_v1.2.6_UNI.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/autocodepage/v1.2.6/AutoCodepage_v1.2.6_UNI.zip",
 			"description": "Automatically sets a document's code page to your needs on loading or renaming a document, changing its language or activating its tab. Usefull especially when coding batch scripts.",
 			"author": "Andreas Heim",
 			"homepage": "https://sourceforge.net/projects/autocodepage"
@@ -62,7 +62,7 @@
 			"npp-compatible-versions": "[7.0,]",
 			"old-versions-compatibility": "[,1.0.2][7.0,]",
 			"id": "5a546da5db6f74e1c0a3897db74c215c047f49333094077685fc36f7fc56ca9e",
-			"repository": "https://sourceforge.net/projects/autoeolformat/files/v1.0.4/plugin/x86/AutoEolFormat_v1.0.4_UNI.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/autoeolformat/v1.0.4/AutoEolFormat_v1.0.4_UNI.zip",
 			"description": "A plugin to automatically set a document's EOL (End Of Line) format to your needs on loading, saving or renaming a document or activating its tab.",
 			"author": "Andreas Heim",
 			"homepage": "https://sourceforge.net/projects/autoeolformat"
@@ -72,7 +72,7 @@
 			"display-name": "Automation Scripts",
 			"version": "2.0.0.0",
 			"id": "30d7324fd390fa336dc9ec5a249d69c825b5e59c1784097a6fdc291f9a332187",
-			"repository": "https://github.com/oleg-shilo/scripts.npp/releases/download/v2.0.0.0/NppScripts.x86.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/NppScripts/v2.0.0.0/NppScripts.x86.zip",
 			"description": "C# based automation. Allows implementing a simple macros-like automations as well as the full scale script based plugins by means of C# scripts. The solution is based on CS-Script C# script engine.",
 			"author": "Oleg Shilo",
 			"homepage": "https://github.com/oleg-shilo"
@@ -82,7 +82,7 @@
 			"display-name": "AutoSave",
 			"version": "2.0",
 			"id": "adb8491ea34996caa956470442b7cdee12e0e13374ef8a66d8a14218973e9be4",
-			"repository": "https://github.com/francostellari/NppPlugins/raw/main/AutoSave/AutoSave_dll_2v00_x32.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/AutoSave/AutoSave_dll_2v00_x32.zip",
 			"description": "Automatically save the currently open files based on a timer schedule and/or upon the application losing focus.\r\nThe plugin offers several options to save the current (or all the files), selecting only the named ones, accessible through an options dialog box.",
 			"author": "Franco Stellari",
 			"homepage": "https://github.com/francostellari/NppPlugins"
@@ -92,7 +92,7 @@
 			"display-name": "BetterMultiSelection",
 			"version": "1.5",
 			"id": "cfd2b102fce7fbe734439c179e10b63cf883552560db9e8634093b6bc7b33594",
-			"repository": "https://github.com/dail8859/BetterMultiSelection/releases/download/v1.5/BetterMultiSelection_v1.5.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/BetterMultiSelection/v1.5/BetterMultiSelection_v1.5.zip",
 			"description": "Provides better cursor movements when using multiple selections.",
 			"author": "Justin Dailey",
 			"homepage": "https://github.com/dail8859/BetterMultiSelection"
@@ -102,7 +102,7 @@
 			"display-name": "BigFiles - Open Very Large Files",
 			"version": "0.1.3",
 			"id": "27E2761DA531C90BA855971F939DF34BFA211B18A863E3B5D907A48615D531D7",
-			"repository": "https://github.com/superolmo/BigFiles/releases/download/v0.1.3.x86/BigFiles.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/BigFiles/v0.1.3/x86/BigFiles.zip",
 			"description": "Reads very large files. It does this by only showing a small buffer of the file and let the user move back anf forth in the page.\r\nThis is useful when you want to preview very large text files. Opening is done separately from Notepad++ and there is no option to save.\r\nhttps://github.com/superolmo/BigFiles",
 			"author": "Claudio Olmi",
 			"homepage": "https://github.com/superolmo/BigFiles"
@@ -112,7 +112,7 @@
 			"display-name": "Bookmarks@Dook",
 			"version": "2.3.3.0",
 			"id": "ccc215e90322c25b2eede9a730fd36450e9b14eb4d67bd80e4608e3cad301bcb",
-			"repository": "https://github.com/Dook1/Bookmarks-Dook/releases/download/23332b/BookmarksDook.32.2.3.3.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/BookmarksDook/2.3.3.0/BookmarksDook.32.2.3.3.zip",
 			"description": "Bookmarks panel",
 			"author": "Dook",
 			"homepage": "https://github.com/Dook1/Bookmarks-Dook/issues"
@@ -122,7 +122,7 @@
 			"display-name": "BracketsCheck",
 			"version": "1.2.2",
 			"id": "619c13f7f563b14e75a3851878cb4d75bbd5b841df95c1fa02e8da20b07a5e89",
-			"repository": "https://github.com/niccord/BracketsCheck/releases/download/v1.2.3/BracketsCheck-1-2-3_x86.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/BracketsCheck/v1.2.3/BracketsCheck-1-2-3_x86.zip",
 			"description": "Helps to check if brackets in your file are balanced.\r\nYou can check all text in a file or only the part you selected.",
 			"author": "niccord",
 			"homepage": "https://github.com/niccord/BracketsCheck/"
@@ -132,7 +132,7 @@
 			"display-name": "CADdyTools",
 			"version": "1.1.3.7",
 			"id": "7ccbfb712e3b6757137f4921de6e6f4f83f9c258248137690c0dd5de9262c5dd",
-			"repository": "https://github.com/MarioRosi/CADdyTools/releases/download/1.1.3.7/CADdyTools_v1137_x86.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/CADdyTools/v1.1.3.7/CADdyTools_v1137_x86.zip",
 			"description": "Notepad++-Plugin for manipulate CADdy-formated coordinate- and measure-textfiles",
 			"author": "Mario Rosenbohm",
 			"homepage": "https://github.com/MarioRosi/CADdyTools"
@@ -142,7 +142,7 @@
 			"display-name": "Code Alignment",
 			"version": "14.1.107",
 			"id": "F731F5B018A2C56FDBEFE0B13641FF4B8A94838260AED2078FA1333356B8024A",
-			"repository": "https://github.com/cpmcgrath/codealignment/releases/download/v14.1/CodeAlignmentNpp_v14.1_x86.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/CodeAlignmentNpp/v14.1.107/CodeAlignmentNpp_v14.1_x86.zip",
 			"description": "Code alignment helps you present your code beautifully, enhancing clarity and readability.\r\nAlign your code by any character. Fast logical shortcuts to perform common alignments such as equals and period.",
 			"author": "Chris McGrath",
 			"homepage": "https://github.com/cpmcgrath/codealignment"
@@ -152,7 +152,7 @@
 			"display-name": "Code::Stats",
 			"version": "1.1.1",
 			"id": "9f3579c6d14d8699d6b9d1ee77a3a101578b2a3237784b3fbc72202695f8e2c7",
-			"repository": "https://github.com/p0358/notepadpp-CodeStats/releases/download/v1.1.1/notepadpp-CodeStats_x86.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/CodeStats/v1.1.1/notepadpp-CodeStats_x86.zip",
 			"description": "Write code, level up, show off! A free stats tracking service for programmers. Enables XP tracking in Notepad++.\r\nRequires a codestats.net account for its functionality.\r\n\r\nAnonymous usage statistics:\r\nOn the next Notepad++ launches, after API token has been provided, this plugin is making HTTPS request to analytics server containing plugin version and unique randomly generated ID. This is because the author would like to see the amount of people using this. The usage statistic collection is not related to the Code::Stats service itself. If you really do not want to be included, you can opt-out in plugin settings.\r\n",
 			"author": "p0358",
 			"homepage": "https://github.com/p0358/notepadpp-CodeStats"
@@ -162,7 +162,7 @@
 			"display-name": "Columns++",
 			"version": "1.0.2",
 			"id": "91625E007608B06629AB7C462573680239EC7D497A4E8EF2775C6DDA3B50423E",
-			"repository": "https://github.com/Coises/ColumnsPlusPlus/releases/download/v1.0.2/ColumnsPlusPlus-1.0.2-x86.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/ColumnsPlusPlus/v1.0.2/ColumnsPlusPlus-1.0.2-x86.zip",
 			"description": "Offers features for working with text and data arranged in columns, including an implementation of elastic tabstops, enhanced searching and sorting, column alignment and numeric calulations.",
 			"author": "Randall Joseph Fellmy",
 			"homepage": "https://github.com/Coises/ColumnsPlusPlus",
@@ -173,7 +173,7 @@
 			"display-name": "ColumnTools",
 			"version": "1.4.5.1",
 			"id": "082c1871ff351a9c9ed4f07d771d76a705bef700a70f1b621a4332b5ebdedf25",
-			"repository": "https://github.com/vinsworldcom/nppColumnTools/releases/download/1.4.5.1/ColumnTools-v1.4.5.1-Win32.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/ColumnTools/v1.4.5.1/ColumnTools-v1.4.5.1-Win32.zip",
 			"description": "Notepad++ Highlight Current Column and Horizontal Ruler",
 			"author": "Vin's World",
 			"homepage": "https://github.com/vinsworldcom/nppColumnTools"
@@ -183,7 +183,7 @@
 			"display-name": "Comment Wrap",
 			"version": "1.0.0.7",
 			"id": "17a85eac38355c6c2eafcfd365d6cf5ecacfc75a7d09629ef209269dcb266312",
-			"repository": "https://sourceforge.net/projects/kered13-notepad-plugins/files/Comment%20Wrap%20Win32%20v1.0.0.7.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/Comment_Wrap/v1.0.0.7/Comment%20Wrap%20Win32%20v1.0.0.7.zip",
 			"description": "Wraps comments as you type. Supports C-style, Python-style, and Lua-style comments.",
 			"author": "Derek Brown",
 			"homepage": "https://sourceforge.net/projects/kered13-notepad-plugins/"
@@ -193,7 +193,7 @@
 			"display-name": "Compare",
 			"version": "2.0.2",
 			"id": "ea2f4cd6627c1b902f700a43b03b38f725e67136c8ce00ac3620ecc03417332a",
-			"repository": "https://github.com/pnedev/compare-plugin/releases/download/v2.0.2/ComparePlugin_v2.0.2_x86.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/ComparePlugin/v1.1.0/ComparePlus_cp_1.1.0_Win32.zip",
 			"description": "Shows the differences between 2 files (side by side).",
 			"author": "Ty Landercasper, Jean-Sebastien Leroy, Pavel Nedev",
 			"homepage": "https://github.com/pnedev/compare-plugin"
@@ -205,20 +205,10 @@
 			"npp-compatible-versions": "[8.4.7,]",
 			"old-versions-compatibility": "[,1.0.0][8.4.2,8.4.6]",
 			"id": "e5fb3ce40c776b2878b2e7b3299e9523717afbc95a450c73d2c1c4b72923a999",
-			"repository": "https://github.com/pnedev/comparePlus/releases/download/cp_1.1.0/ComparePlus_cp_1.1.0_Win32.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/ComparePlus/v1.1.0/ComparePlus_cp_1.1.0_Win32.zip",
 			"description": "Advanced compare tool based on the well-known Compare-plugin by Ty Landercasper and Jean-Sebastien Leroy.",
 			"author": "Pavel Nedev",
 			"homepage": "https://github.com/pnedev/comparePlus"
-		},
-		{
-			"folder-name": "CSScriptNpp",
-			"display-name": "CS-Script - C# Intellisense",
-			"version": "2.0.3.0",
-			"id": "8eef972d4136c4cbb2a32e99f7df4c23715ecef6197c24fb7192ab6dc07ccdaa",
-			"repository": "https://github.com/oleg-shilo/cs-script.npp/releases/download/v2.0.3.0/CSScriptNpp.2.0.3.0.x86.zip",
-			"description": "CS-Script integration. Implements a real C# Intellisense solution based on CS-Script and Roslyn. Allows loading, executing modifying and debugging C# scripts in a way very similar to the Visual Studio C# projects support. This includes referencing assemblies and other scripts, code formatting, adding missing namespaces and intercepting Debug and Console output.",
-			"author": "Oleg Shilo",
-			"homepage": "https://github.com/oleg-shilo/cs-script.npp"
 		},
 		{
 			"folder-name": "CSVLint",
@@ -227,7 +217,7 @@
 			"npp-compatible-versions": "[8.4,]",
 			"old-versions-compatibility": "[,0.4.5.1][,8.3.3]",
 			"id": "51b96f47c923d4cc32552c3e6b7e7c9e5b381dc2783be497e2343d2e34027fb9",
-			"repository": "https://github.com/BdR76/CSVLint/releases/download/0.4.6.6/CSVLint_x86.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/CSVLint/v0.4.6.6/CSVLint_x86.zip",
 			"description": "Syntax highlighting and quality control for csv and fixed width data, detect column and datatypes, convert datetime/decimal format, sql, xml",
 			"author": "Bas de Reuver",
 			"homepage": "https://github.com/BdR76/CSVLint/"
@@ -237,7 +227,7 @@
 			"display-name": "CsvQuery",
 			"version": "1.2.9",
 			"id": "0defb9c0bb3c2d6628a248b10f7cc0844a363ecee19ad224bf09d1797d4f906e",
-			"repository": "https://github.com/jokedst/CsvQuery/releases/download/v1.2.9/CsvQuery-v1.2.9-x86.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/CsvQuery/v1.2.9/CsvQuery-v1.2.9-x86.zip",
 			"description": "Enables SQL queries against CSV files.",
 			"author": "jokedst",
 			"homepage": "https://github.com/jokedst/CsvQuery"
@@ -247,7 +237,7 @@
 			"display-name": "Customize Toolbar",
 			"version": "5.3",
 			"id": "979ed6f192b05a4c2c07f2397a03f7954f5e0e01d92494b6de5540f2e312f710",
-			"repository": "https://sourceforge.net/projects/npp-customize/files/Customize%20Toolbar%20v5.3/CustomizeToolbar_5_3_Win32_UNI.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/_CustomizeToolbar/v5.3/CustomizeToolbar_5_3_Win32_UNI.zip",
 			"description": "Allows the toolbar to be fully customised by the user, and includes twenty-six additional buttons for frequently used menu commands. All buttons on the toolbar can be customized, whether Notepad++ buttons, additional buttons, or other plugin buttons.\r\n\r\nCustom buttons for Notepad++ menu commands or other plugin menu commands can be created using a configuration file. It is possible to replace the icons of existing Notepad++ buttons or other plugin buttons.\r\n",
 			"author": "dw-dev@gmx.com",
 			"homepage": "https://sourceforge.net/projects/npp-customize"
@@ -259,7 +249,7 @@
 			"npp-compatible-versions": "[7.0,]",
 			"old-versions-compatibility": "[,1.1.7][7.0,]",
 			"id": "9bc7bfb2357ab20aa913aaf70cc36f3d749f0e5b78b1fb3596415b9ecc9e5b38",
-			"repository": "https://sourceforge.net/projects/customlinenumbers/files/v1.1.8/plugin/x86/CustomLineNumbers_v1.1.8_UNI.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/CustomLineNumbers/v1.1.8/CustomLineNumbers_v1.1.8_UNI.zip",
 			"description": "Displays line numbers as hex numbers. You can also configure the starting line number.",
 			"author": "Andreas Heim",
 			"homepage": "https://sourceforge.net/projects/customlinenumbers"
@@ -269,7 +259,7 @@
 			"display-name": "Dark Theme Mode",
 			"version": "1.0",
 			"id": "704eb5438934a11fb0b47396a2bbd1d4bc2e6365a6be6bee01606be386e4a1ec",
-			"repository": "https://github.com/MyTDT-Mysoft/DarkTheme-Npp-Plugin/releases/download/v1.0/DarkTheme.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/DarkTheme/v1.0/DarkTheme.zip",
 			"description": "Invert colors of default white themes independent of style configuration",
 			"author": "MyTDT-Mysoft",
 			"homepage": "https://github.com/MyTDT-Mysoft/DarkTheme-Npp-Plugin"
@@ -281,7 +271,7 @@
 			"npp-compatible-versions": "[7.7,]",
 			"old-versions-compatibility": "[,0.0.13.27][,7.6.6]",
 			"id": "6babcfbae65ced266a6073fe9bf6947a409266b63117b5c3c55d7a84ae1ac93d",
-			"repository": "https://bitbucket.org/rdipardo/dbgp/downloads/dbgpPlugin_v0.14.2.1_win32.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/dbgpPlugin/v0.14.2.1/dbgpPlugin_v0.14.2.1_win32.zip",
 			"description": "PHP debugger (XDebug) which talks with the DBGP protocol. Transforms Notepad++ into a PHP IDE.",
 			"author": "Damjan Zobo Cvetko",
 			"homepage": "https://bitbucket.org/rdipardo/dbgp"
@@ -291,7 +281,7 @@
 			"display-name": "Discord Rich Presence",
 			"version": "1.8.617.1",
 			"id": "465a01a6fc9ffdc94fada02492b5df8380fc75620d2f4a02d631fa67eb71b0d8",
-			"repository": "https://github.com/Zukaritasu/notepadpp_rpc/releases/download/v1.8.6/DiscordRPC_v1.8.6_x86.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/DiscordRPC/v1.8.617.1/DiscordRPC_v1.8.6_x86.zip",
 			"description": "Shows in discord the file that is currently being edited in Notepad++.",
 			"author": "Zukaritasu",
 			"homepage": "https://github.com/Zukaritasu/notepadpp_rpc"
@@ -301,7 +291,7 @@
 			"display-name": "Don Rowlett Color Picker",
 			"version": "2.3",
 			"id": "db861fd46649c92b2d0b048c3e298a9cba76e610dc5ec8bdf90bcada598744f3",
-			"repository": "https://sourceforge.net/projects/npp-plugins/files/ColorPicker/Color%20Picker%20v.2.3/ColorPicker_230_dll.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/ColorPicker/v2.3/ColorPicker_230_dll.zip",
 			"description": "Developer tool for selecting color codes in various formats. Not a color sampling tool.",
 			"author": "Don Rowlett",
 			"homepage": "https://sourceforge.net/projects/npp-plugins/files/ColorPicker/"
@@ -311,7 +301,7 @@
 			"display-name": "DoxyIt",
 			"version": "0.4.4",
 			"id": "9ed3a7c101114c9c7498fa31478157f805e16fb7e0225fa0622e0d41295344ae",
-			"repository": "https://github.com/dail8859/DoxyIt/releases/download/v0.4.4/DoxyIt_v0.4.4.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/DoxyIt/v0.4.4/DoxyIt_v0.4.4.zip",
 			"description": "Supports creating Doxygen comments.",
 			"author": "Justin Dailey",
 			"homepage": "https://github.com/dail8859/DoxyIt"
@@ -321,7 +311,7 @@
 			"display-name": "DSpellCheck",
 			"version": "1.5.0",
 			"id": "16cbb1eddacfc7692007e9c2b73e531ba5a480f1cfa2466c11a34f969780f668",
-			"repository": "https://github.com/Predelnik/DSpellCheck/releases/download/v1.5.0/DSpellCheck_x86.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/DSpellCheck/v1.5.0/DSpellCheck_x86.zip",
 			"description": "Spell-checking with these main features:\r\n-Underlining spelling mistakes\r\n-Iterating through all mistakes in document\r\n-Finding mistakes only in comments and strings (For files with standard programming language syntax e.g. C++)\r\n-Possible usage of multiple languages (dictionaries) simultaneously to do spell-checking.\r\n-Getting suggestions for words by either using default Notepad++ menu or separate context menu called by special button appearing under word.\r\n-Able to add words to user dictionary or ignore them for current session of Notepad++\r\n-Using either Hunspell library (included in plugin) or Aspell library (needs to be installed).\r\n-A lot of customizing available from Plugin settings (Ignoring/Allowing only specific files, Choosing delimiters for words, Maximum number of suggestions etc)\r\n-Support for downloading and removing Hunspell dictionaries through user friendly GUI interface\r\n-Ability to quickly change current language through the nice menu.",
 			"author": "Sergey Semushin",
 			"homepage": "https://github.com/Predelnik/DSpellCheck"
@@ -331,7 +321,7 @@
 			"display-name": "EditorConfig",
 			"version": "0.4.0",
 			"id": "d5e76e32dd8a06c4b9e3c2c057ca0849cee466c2e608c0ad04907f68698db850",
-			"repository": "https://github.com/editorconfig/editorconfig-notepad-plus-plus/releases/download/v0.4.0/NppEditorConfig-040-x86.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/NppEditorConfig/v0.4.0/NppEditorConfig-040-x86.zip",
 			"description": "EditorConfig is a text file that defines coding conventions for a project to help maintain them consistent no matter which text editor you use. This plugin adds support for .editorconfig files to Notepad++. It will automatically discover and apply matching .editorconfig settings to the files that you open for editing. For the EditorConfig recommended use, file format and samples, visit https://editorconfig.org/.",
 			"author": "EditorConfig Team",
 			"homepage": "https://github.com/editorconfig/editorconfig-notepad-plus-plus"
@@ -343,7 +333,7 @@
 			"npp-compatible-versions": "[8.4.4,]",
 			"old-versions-compatibility": "[,1.3][,8.2.1]",
 			"id": "5033bea9de694c6de055e40fd19ce739a5a147b5fd9eae2008e0a00cad439db3",
-			"repository": "https://github.com/mariusv-github/ElasticTabstops/releases/download/v1.5.0/ElasticTabstops_x86_1.5.0.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/ElasticTabstops/v1.5.0/ElasticTabstops_x86_1.5.0.zip",
 			"description": "Support for Elastic Tabstops.",
 			"author": "Marius Vasiliu, Justin Dailey",
 			"homepage": "https://github.com/mariusv-github/ElasticTabstops"
@@ -354,7 +344,7 @@
 			"version": "1.4.0",
 			"npp-compatible-versions": "[8.4.1,]",
 			"id": "b88d334d42ee53ef1bbbb70eb5938b312d5b19353fdab8347c99b53e2895f0a3",
-			"repository": "https://github.com/Ekopalypse/EnhanceAnyLexer/releases/download/v.1.4.0/EnhanceAnyLexer_x86_PluginAdmin.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/EnhanceAnyLexer/v.1.4.0/EnhanceAnyLexer_x86_PluginAdmin.zip",
 			"description": "Adds more styling, colors only, options to any Lexer",
 			"author": "Ekopalypse",
 			"homepage": "https://github.com/Ekopalypse/EnhanceAnyLexer"
@@ -364,7 +354,7 @@
 			"display-name": "ERP Helper",
 			"version": "1.1.2",
 			"id": "b58e77a96bc89e9951869c2b0dc83db7025ba92b2394a8d36ab07f398c82191a",
-			"repository": "https://github.com/swhitley/ERPHelper/releases/download/v1.1.2/ERPHelper_x86.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/ERPHelper/v1.2.0/ERPHelper_x86.zip",
 			"description": "A set of utilities for developing ERP integrations, includes XSL transformation and Workday API SOAP calls.",
 			"author": "Whitley Media",
 			"homepage": "https://github.com/swhitley/erphelper"
@@ -374,7 +364,7 @@
 			"display-name": "Explorer",
 			"version": "1.9.9.0",
 			"id": "e6dbee3154b72fd2f19079d0454184c23b43e170f4b6ad6141145f2a7619342c",
-			"repository": "https://github.com/oviradoi/npp-explorer-plugin/releases/download/v1.9.9/Explorer.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/Explorer/v1.9.9/Explorer.zip",
 			"description": "File browser. You can open files from your local drives in Notepad++, just double click!",
 			"author": "Jens Lorenz",
 			"homepage": "https://github.com/oviradoi/npp-explorer-plugin"
@@ -384,7 +374,7 @@
 			"display-name": "Expression calculator",
 			"version": "3001.21.1125.1",
 			"id": "3934f2d8cf32d0feceb732fb9dad170f48fe5e14cb24c2c58666475a0483d15e",
-			"repository": "https://planet-cnc.com/wp-content/uploads/sw/Npp/PlanetCNCNpp32.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/PlanetCNCNpp/PlanetCNCNpp32.zip",
 			"description": "Expression calculator plugin for Notepad++",
 			"author": "PlanetCNC",
 			"homepage": "https://planet-cnc.com/notepad-plugin/"
@@ -396,7 +386,7 @@
 			"npp-compatible-versions": "[7.0,]",
 			"old-versions-compatibility": "[,1.2.2][7.0,]",
 			"id": "184dda7360bdf8fc17142c4e5db3ac215af4658b234a1b158b5816a11d3acb24",
-			"repository": "https://sourceforge.net/projects/extsettings/files/v1.3.1/plugin/x86/ExtSettings_v1.3.1_UNI.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/ExtSettings/v1.3.1/ExtSettings_v1.3.1_UNI.zip",
 			"description": "Set various Scintilla settings which are not available via Notepad++ preferences dialog.",
 			"author": "Andreas Heim",
 			"homepage": "https://sourceforge.net/projects/extsettings"
@@ -407,7 +397,7 @@
 			"version": "0.2.1.1",
 			"npp-compatible-versions": "[7.7,]",
 			"id": "f0401e31da90b7baa504ba841d6ff21f1f28cbad139480cb00adc30a49567a92",
-			"repository": "https://github.com/rdipardo/nppFSIPlugin/releases/download/v0.2.1.1/NPPFSIPlugin_v0.2.1.1_win32.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/NPPFSIPlugin/v0.2.1.1/NPPFSIPlugin_v0.2.1.1_win32.zip",
 			"description": "F# source code lexer and IPC client for F# Interactive.\r\nNote: the .NET SDK must be installed separately.",
 			"author": "Prapin Peethambaran",
 			"homepage": "https://github.com/rdipardo/nppFSIPlugin"
@@ -417,7 +407,7 @@
 			"display-name": "Falling Bricks",
 			"version": "1.1.0.0",
 			"id": "5bace8e94c194f2d9a916cfc63d2e0bdbd4cab157de9cf0b3970a44cc4acf37b",
-			"repository": "https://downloads.sourceforge.net/project/npp-plugins/FallingBricks/FallingBricks%201.1%20UNI/fallingbricks_v1.1_unicode_dll.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/fallingbricks/fallingbricks_v1.1_unicode_dll.zip",
 			"description": "Simple tetris-like game to play from within Notepad++. The rules are exactly the same, so I hope no explanation is needed :-P This is the most bare-basic implementation of Tetris, so don't expect any fancy 3D graphics or surround sound effects. If you close the dialog box of this plugin (maybe your boss just appeared?), the game will auto pause, and you can resume from where you last left it. Your high scores are not remembered, so please scribble them into Notepad++ yourself!",
 			"author": "loonychewy",
 			"homepage": "https://sourceforge.net/projects/npp-plugins/files/FallingBricks/"
@@ -427,7 +417,7 @@
 			"display-name": "File Switcher",
 			"version": "1.0.3.0",
 			"id": "c539b6e19d3524eea8df5fa02f2fefe84104e2b2170159555a00ec9a3715cc56",
-			"repository": "https://downloads.sourceforge.net/project/npp-plugins/File%20Switcher/FileSwitcher%201.0.3.0/FileSwitcher1030_UNI.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/blob/master/FileSwitcher/FileSwitcher1030_UNI.zip",
 			"description": "Allows you to switch the active buffer using just the keyboard. You can type any part of the filename, path or tab index. You can also use it as a replacement for the Ctrl-Tab functionality built into Notepad++.",
 			"author": "Dave Brotherstone",
 			"homepage": "https://github.com/bruderstein/FileSwitcher"
@@ -437,7 +427,7 @@
 			"display-name": "FingerText",
 			"version": "0.5.60",
 			"id": "eed1470179624edae57b29ba0971bfa22e568ab51d2896edc90d5ac968fa88c5",
-			"repository": "https://downloads.sourceforge.net/project/fingertext/Alpha%20Releases/FingerText%20-%200.5.60.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/FingerText/FingerText%20-%200.5.60.zip",
 			"description": "A Snippet plugin with support for multiple hotspots. Set the shortcut to Tab and remove from the Scintilla tab command for best usage.",
 			"author": "Tom Lam",
 			"homepage": "https://sourceforge.net/projects/fingertext/"
@@ -447,7 +437,7 @@
 			"display-name": "Fixed-width Data Visualizer",
 			"version": "2.6.3.1",
 			"id": "e7f18c2b6fdda837ac1b33c17a8d71fd74dfba204605939aa3a781e85198ba94",
-			"repository": "https://github.com/shriprem/FWDataViz/releases/download/v2.6.3.1/FWDataViz_x86.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/FWDataViz/v2.6.3.1/FWDataViz_x86.zip",
 			"description": "Fixed Width Data Visualizer adds Excel-like features for fixed-width data files in Notepad++. Displays cursor position data. Foldable Record Blocks; Hop & Jump to specific fields. Field Copy & Field Paste. Data Extraction. Builtin dialogs to configure file-type, record-type & fields; and themes & colors. Automatic File Type Detection. Handles homogenous, mixed & multi-line records. Full Multi-byte character support. Darkmode enabled.",
 			"author": "Shridhar Kumar",
 			"homepage": "https://github.com/shriprem/FWDataViz"
@@ -459,7 +449,7 @@
 			"npp-compatible-versions": "[7.7,]",
 			"old-versions-compatibility": "[,0.4.0][,8.3.3]",
 			"id": "9c2050429afbe1121151e426ea3fa4ed5b062a02bf95346ab7f9c6dd4af3126e",
-			"repository": "https://sourceforge.net/projects/gedcomlexer/files/GedcomLexer-0.5.0-r170/GedcomLexer-0.5.0-r170-x86.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/GedcomLexer/GedcomLexer-0.5.0-r170/GedcomLexer-0.5.0-r170-x86.zip",
 			"description": "View and edit GEDCOM files with syntax highlighting of: level, xref id, tag, pointer, value and escape tokens. Customize coloration and font styles. Grammar errors are also highlighted. View GEDCOM files in outline mode by folding sections based on line level.",
 			"author": "Stan Mitchell",
 			"homepage": "https://sourceforge.net/projects/gedcomlexer/"
@@ -469,7 +459,7 @@
 			"display-name": "GitSCM",
 			"version": "1.4.9.1",
 			"id": "050994335e8a7f5f590ecd81ce0edb190133c98df5d3785dd468b6d5faf8da9e",
-			"repository": "https://github.com/vinsworldcom/nppGitSCM/releases/download/1.4.9.1/GitSCM-v1.4.9.1-Win32.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/GitSCM/1.4.9.1/GitSCM-v1.4.9.1-Win32.zip",
 			"description": "N++ Gui for already installed Git SCM for Windows. Optionally TortoiseGit.",
 			"author": "Michael J. Vincent",
 			"homepage": "https://github.com/vinsworldcom/nppGitSCM"
@@ -479,7 +469,7 @@
 			"display-name": "Gmod Lua Lexer",
 			"version": "1.5",
 			"id": "fe753ae0cb0f585d9bef3fd882f4f7eceb7d0e3014bcd0f12cd5aab323de0d7f",
-			"repository": "https://sourceforge.net/projects/npp-plugins/files/Gmod%20Lua%20Highlighter/Gmod%20Lua%20v1.5/NppGmodLuaPlugin-v1.5.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/GmodLua/NppGmodLuaPlugin-v1.5.zip",
 			"description": "A Garry's Mod 10 lua syntax highlighter plugin. It's also a good demonstration of syntax highlighter plugins for Notepad++.",
 			"author": "Kyle Fleming (aka Garthex)",
 			"homepage": "https://code.google.com/p/npp-gmod-lua/"
@@ -489,7 +479,7 @@
 			"display-name": "GOnpp",
 			"version": "1.2.0.0",
 			"id": "cec990ef66d9d2264e1066585016b955cfa04f48a11535cf5245c07e5e959c85",
-			"repository": "https://sourceforge.net/projects/gonpp/files/GOnpp_1.2_UNI.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/GOnpp/GOnpp_1.2_UNI.zip",
 			"description": "Assists you writing Go-programs. Has code completion and function calltips (using gocode, see below) as well as direct interaction with the go command. Currently the following actions are implemented:\r\ngocode complete -&gt; Alt+O || gocode calltip -&gt; Alt+P\r\ngo fmt -&gt; Alt+F || go test -&gt; Alt+T || go install -&gt; Alt+I || go run -&gt; Alt+R\r\nPlease note, you must have the GO programming language installed to make use of GOnpp. You can get GO from https://golang.org/dl/\r\nTo use the code-completion you need to have gocode installed and located either in your PATH or in GOROOT/bin. You can get gocode from https://github.com/nsf/gocode",
 			"author": "tike",
 			"homepage": "https://github.com/tike/GOnpp"
@@ -499,7 +489,7 @@
 			"display-name": "GotoLineCol",
 			"version": "2.4.3.0",
 			"id": "7fad2862aa3ccaaeda9d981b83623292d6b4b9e1d5d68fe504a43c621f334f82",
-			"repository": "https://github.com/shriprem/Goto-Line-Col-NPP-Plugin/releases/download/v2.4.3.0/GotoLineCol_x86.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/GotoLineCol/v2.4.3.0/GotoLineCol_x86.zip",
 			"description": "A plugin to navigate to a specified line and (byte-based or character-based) column position. Will also display character byte code, UTF-8 byte sequence & Unicode code point at cursor position. Darkmode enabled. Command line options.",
 			"author": "Shridhar Kumar",
 			"homepage": "https://github.com/shriprem/Goto-Line-Col-NPP-Plugin"
@@ -509,7 +499,7 @@
 			"display-name": "GrepBugs",
 			"version": "1.0.0",
 			"id": "0971e9eee0032f9c5f408f3c2d8176b2efc929677442683e6c79b77d3b62cf86",
-			"repository": "https://github.com/foospidy/GrepBugsPluginNotepadPlusPlus/releases/download/v1.0/GrepBugsPluginNpp.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/GrepBugsPluginNpp/GrepBugsPluginNpp.zip",
 			"description": "Downloads the latest regular expressions from GrepBugs.com and grep for matches in all open files. Requires .NET 4+",
 			"author": "Peter Parker",
 			"homepage": "https://grepbugs.com/plugins"
@@ -519,7 +509,7 @@
 			"display-name": "HEX-Editor",
 			"version": "0.9.12.0",
 			"id": "266be61339df9d7a781ca6f5853ac03db1e35c3c6c1c8bcb2349c619f981c781",
-			"repository": "https://github.com/chcg/NPP_HexEdit/releases/download/0.9.12/HexEditor_0.9.12_Win32.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/HexEditor/0.9.12/HexEditor_0.9.12_Win32.zip",
 			"description": "Hex editor. Some reported issues, however many bugs fixed in latest release.",
 			"author": "Jens Lorenz",
 			"homepage": "https://github.com/chcg/NPP_HexEdit"
@@ -531,8 +521,8 @@
 			"npp-compatible-versions": "[7.7,]",
 			"old-versions-compatibility": "[,1.1][,7.6.6]",
 			"id": "4b5bdc05888feb33d0790289bb2c5ff8448192512a3548232eb8b0e578f55bdd",
-			"repository": "https://bitbucket.org/rdipardo/htmltag/downloads/HTMLTag_v1.4.1.zip",
-			"description": "Provides three core functions:\r\n- HTML and XML tag jumping, like the built-in brace matching and selection\r\n of tags and/or contents.\r\n- HTML entity encoding/decoding (example: é to &eacute;)\r\n- JS character encoding/decoding (example: é to \\u00E9)",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/HTMLTag/HTMLTag_v1.4.1.zip",
+			"description": "Provides three core functions:\r\n- HTML and XML tag jumping, like the built-in brace matching and selection\r\n of tags and/or contents.\r\n- HTML entity encoding/decoding (example: �� to &eacute;)\r\n- JS character encoding/decoding (example: �� to \\u00E9)",
 			"author": "Martijn Coppoolse",
 			"homepage": "https://bitbucket.org/rdipardo/htmltag/"
 		},
@@ -541,7 +531,7 @@
 			"display-name": "HugeFiles",
 			"version": "0.4.1",
 			"id": "a3b62bf3f2e1670e7f84cc87d685f9cc7aca75cf63590fd9fd6e6b028dd307a9",
-			"repository": "https://github.com/molsonkiko/HugeFiles/releases/download/v0.4.1/Release_x86.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/HugeFiles/v0.4.1/Release_x86.zip",
 			"description": "Reads very large files one chunk at a time, ensuring that each chunk breaks at the end of a line.\r\nCan also break JSON files into syntactically valid JSON chunks.\r\nCan find/replace text in big files without huge memory consumption.\r\nFind/replace form for editing the big file without reading it all into memory.",
 			"author": "Mark Johnston Olson",
 			"homepage": "https://github.com/molsonkiko/HugeFiles/",
@@ -552,7 +542,7 @@
 			"display-name": "ImgTag",
 			"version": "2.0.1",
 			"id": "0381685bc8410c301dc492e52c5fc99abdb55368ce18822f67e2fb31cf88886c",
-			"repository": "https://sourceforge.net/projects/imgtag/files/ImgTag_binary_unicode_2.0.1.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/ImgTag/2.0.1.8/ImgTag_binary_unicode_2.0.1.zip",
 			"description": "Insert IMG tags, in your HTML document, using the Open File dialog box to select image files.",
 			"author": "salvom",
 			"homepage": "https://sourceforge.net/projects/imgtag/"
@@ -562,7 +552,7 @@
 			"display-name": "Indent By Fold",
 			"version": "0.7.3",
 			"id": "125f054921e4acb4226fa04dbe5f6b970bdae366e2bdca0ceeada03a1ac62fed",
-			"repository": "https://github.com/ffes/indentbyfold/releases/download/v0.7.3/IndentByFold-073-x32.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/IndentByFold/v0.7.3/IndentByFold-073-x32.zip",
 			"description": "Indent using Fold points\r\nNote: Disable Notepad++'s Auto Indent in Settings - Preferences - MISC - Untick Auto Indent.",
 			"author": "Ben Bluemel, Frank Fesevur",
 			"homepage": "https://github.com/ffes/indentbyfold/"
@@ -572,7 +562,7 @@
 			"display-name": "iTimeTrack",
 			"version": "3.0.0",
 			"id": "b40ddd0e9d679d39acc1f731f07a646cf42f404e4470fb30673f091175a73024",
-			"repository": "https://github.com/itimetrack/itimetrack-notepadpp/releases/download/3.0.0/itimetrack-notepadpp-bin-3.0.0.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/itimetrack/3.0.0/itimetrack-notepadpp-bin-3.0.0.zip",
 			"description": "Automated time tracking tool for programmers. Once the iTimeTrack plugin is installed, your billable time worked in files will be assigned to a project then a time-entry will be generated at https://itimetrack.com",
 			"author": "iTimeTrack",
 			"homepage": "https://itimetrack.com"
@@ -582,7 +572,7 @@
 			"display-name": "Java Plugin",
 			"version": "0.4.0",
 			"id": "8ceae37ad7aab7a663c93076e9b50c9e6e64320f987de52726ea6b160b9ee61c",
-			"repository": "https://github.com/dominikcebula/npp-java-plugin/releases/download/v0.4.0/NppJavaPlugin_v0.4.0_x86.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/NppJavaPlugin/v0.4.0/NppJavaPlugin_v0.4.0_x86.zip",
 			"description": "Allows Java Code Compilation and Execution directly from Notepad++.",
 			"author": "Dominik Cebula",
 			"homepage": "https://github.com/dominikcebula/npp-java-plugin"
@@ -592,7 +582,7 @@
 			"display-name": "JavaScript Map Parser",
 			"version": "4.2",
 			"id": "a42f6f1496a652b37b47bb4d304e6b1dbf22bb74181a345b3b391016a73e8d7c",
-			"repository": "https://github.com/megaboich/js-map-parser/releases/download/4.2/JsMapParser_NppPlugin_4_2_x86.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/JsMapParser.NppPlugin/4.2/JsMapParser_NppPlugin_4_2_x86.zip",
 			"description": "Provides better JavaScript support. Provides a panel with hierarchy structure of functions in your js file.",
 			"author": "Oleksandr Boiko",
 			"homepage": "https://github.com/megaboich/js-map-parser/"
@@ -602,7 +592,7 @@
 			"display-name": "jN Notepad++ Plugin",
 			"version": "2.2.185.9",
 			"id": "a98451ed0dce686c87a881baa45c2e912c5d0766ce76892b24ee8f125128ec0a",
-			"repository": "https://github.com/sieukrem/jn-npp-plugin/releases/download/2.2.185.9/jN_2.2.185.9_x86.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/jN/2.2.185.9/jN_2.2.185.9_x86.zip",
 			"description": "Allows you to extend Notepad++ by using JavaScript.\r\n- You can create new menu elements which execute JavaScript\r\n- You can use manu ActiveX components available on your PC\r\n- You can add shortcuts executing JavaScript\r\n- You can create HTML-based dialogs and docking windows\r\n- You can write JavaScript wrappers around Win32 API\r\n - Since version 2.0.116 you can debug your automating scripts\r\n - Selection highlighting and navigation bar\r\n - Integrated Zen Coding v0.7\r\n - You can catch context menu request and create your own",
 			"author": "Eugen Kremer",
 			"homepage": "https://github.com/sieukrem/jn-npp-plugin/wiki"
@@ -612,7 +602,7 @@
 			"display-name": "JSFunctionViewer",
 			"version": "1.1.0",
 			"id": "78ed11e72bd10d4decd19ff976637c921318151fefb4b8ef243a34b51a02cde5",
-			"repository": "https://github.com/davidsover/nppJSFunctionViewer/releases/download/v1.1.0/JSFunctionViewer_x86.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/JSFunctionViewer/v1.1.0/JSFunctionViewer_x86.zip",
 			"description": "Provides an easier way to view and/or navigate to functions from function calls. Also works with external files if the src attribute is the last attribute of the <script> tag. Select the name of a function to view it. Recommended: In the Find/Replace window (Ctrl+F), tick the 'Match case' and untick the 'Match whole word only' check box.",
 			"author": "Sover David",
 			"homepage": "https://github.com/davidsover/nppJSFunctionViewer"
@@ -622,7 +612,7 @@
 			"display-name": "JSLint",
 			"version": "0.8.3.119",
 			"id": "8306c76dbbb7ea07f22b613ddbedc60f1eaf74c286136bba92acd593a6557336",
-			"repository": "https://downloads.sourceforge.net/project/jslintnpp/0.8.3/JSLintNPP.0.8.3.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/JSLintNPP/0.8.3/JSLintNPP.0.8.3.zip",
 			"description": "Allows running JSLint (The JavaScript Code Quality Tool) against open JavaScript files (more about JSLint at https://www.jslint.com/help.html).",
 			"author": "Martin Vladic",
 			"homepage": "https://sourceforge.net/projects/jslintnpp/"
@@ -632,7 +622,7 @@
 			"display-name": "JSON Tools",
 			"version": "6.1.1",
 			"id": "76664285b0781e5af6a9199f14516051052b78666a60b5927bad2e900dee91b8",
-			"repository": "https://github.com/molsonkiko/JsonToolsNppPlugin/releases/download/v6.1.1/Release_x86.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/JsonTools/v6.1.1/Release_x86.zip",
 			"description": "Query/editing tool for JSON including linting, reformatting, a tree viewer with file navigation, JSON schema validation and generation, escaping/unescaping strings, and much more.\r\nThe tree viewer can also be used to explore CSV files and regex search results (experimental).",
 			"author": "Mark Johnston Olson",
 			"homepage": "https://github.com/molsonkiko/JsonToolsNppPlugin",
@@ -644,7 +634,7 @@
 			"display-name": "JSON Viewer",
 			"version": "2.0.6.0",
 			"id": "99acd9c06ffc734288e276a72bfb2869abeec40ea492d52127290afe7dd4a61d",
-			"repository": "https://github.com/kapilratnani/JSON-Viewer/releases/download/v2.0.6.0/NPPJSONViewer_Win32.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/NPPJSONViewer/v2.0.6.0/NPPJSONViewer_Win32.zip",
 			"description": "JSON viewer that displays the selected JSON string in a tree view.",
 			"author": "Kapil Ratnani, Rajendra Singh",
 			"homepage": "https://github.com/kapilratnani/JSON-Viewer",
@@ -655,7 +645,7 @@
 			"display-name": "JSTool",
 			"version": "1.2312.0",
 			"id": "dc46e2bf466bd6431351e73bc332e47134b5e04d3c79cfc4738b79ecfed050ed",
-			"repository": "https://sourceforge.net/projects/jsminnpp/files/Uni/JSToolNPP.1.2312.0.uni.32.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/JSMinNPP/JSToolNPP.1.2312.0.uni.32.zip",
 			"description": "Javascript plugin.\r\n * Douglas Crockford's JSMin algorithm to minimize javascript code.\r\n * My own algorithm to format javascript code.\r\n * A JSON data viewer. This JSON data viewer can handle >10MB JSON file easily.\r\n * Support 64bit Notepad++ (from version 1.20.0).\r\nReally helpful to javascript coder on Notepad++ and really easy to use it.\r\nMade in China.",
 			"author": "Sun Junwen",
 			"homepage": "https://github.com/sunjw/jstoolnpp"
@@ -665,7 +655,7 @@
 			"display-name": "LanguageHelp",
 			"version": "1.7.5.0",
 			"id": "be410c694abeef2469d34c98c16ec39387650275907cb4966cd5503618f20afd",
-			"repository": "https://github.com/francostellari/NppPlugins/raw/main/LanguageHelp/LanguageHelp_dll_1v75_x32.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/LanguageHelp/LanguageHelp_dll_1v75_x32.zip",
 			"description": "Allows loading a language specific help file (CHM, HLP, PDF) and search for the keyword under the cursor.\r\nThe latest version allows showing the help files as menu entries or in the context menu.",
 			"author": "Franco Stellari",
 			"homepage": "https://github.com/francostellari/NppPlugins"
@@ -675,7 +665,7 @@
 			"display-name": "lexamples",
 			"version": "1.0.0.0",
 			"id": "0703a38b16c574562159526e909588a98ee76b3213d9f01b0089ab70283c101f",
-			"repository": "https://sourceforge.net/projects/lexamples/files/v1.0.0/lexamples_1_0_0.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/lexamples/lexamples_1_0_0.zip",
 			"description": "External lexer package with improved lexers for Makefiles and MIB/ASN.1 files.",
 			"author": "Gur Stavi",
 			"homepage": "https://sourceforge.net/projects/lexamples"
@@ -685,27 +675,17 @@
 			"display-name": "Light Explorer",
 			"version": "2.0.0.0",
 			"id": "0c6f915ac926e12acdc6bff30307549cb074f97bebd04205a350cced8931463a",
-			"repository": "https://downloads.sourceforge.net/project/npp-plugins/LightExplorer/LightExplorer%202.0%20UNICODE/LightExplorer_2_0_dll.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/LightExplorer/LightExplorer_2_0_dll.zip",
 			"description": "Allows documents to be opened from a dockable file explorer that is very light weight and fast.",
 			"author": "Javier Sanjose",
 			"homepage": "https://sourceforge.net/projects/npp-plugins/files/LightExplorer/"
-		},
-		{
-			"folder-name": "Linefilter3",
-			"display-name": "Linefilter3",
-			"version": "1.0.0.0",
-			"id": "7adbed33c702c57dffa40aab356d7f549fc5b7d2852cfd9b05c3681b041dc0ea",
-			"repository": "https://www.seelisoft.net/Linefilter3/Linefilter3_x86.zip",
-			"description": "Allows filtering for a given text and display the matching lines in a new window.",
-			"author": "SeeliSoft",
-			"homepage": "https://www.seelisoft.net/Linefilter3/"
 		},
 		{
 			"folder-name": "Linter",
 			"display-name": "Linter",
 			"version": "0.1.0.0",
 			"id": "5ebbd8d01a2342e1916974a15e10280fecf61c41bf073d269d15a5c3fa316b49",
-			"repository": "https://github.com/deadem/notepad-pp-linter/raw/v0.1.0.0/bin/x32/linter.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/Linter/v0.1.0.0/x86/linter.zip",
 			"description": "Allows realtime code check against any checkstyle-compatible linter: jshint, eslint, jscs, phpcs, csslint, and many others.",
 			"author": "Vladimir Soshkin",
 			"homepage": "https://github.com/deadem/notepad-pp-linter"
@@ -715,7 +695,7 @@
 			"display-name": "Location Navigate",
 			"version": "0.4.8.1",
 			"id": "c4ebd8eaef1a82ee7668980488726d9335ef1d5f5c7b22afa992d6a603156734",
-			"repository": "https://sourceforge.net/projects/locationnav/files/LocationNavigate_v0.4.8.1_x86.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/LocationNavigate/LocationNavigate_v0.4.8.1_x86.zip",
 			"description": "Navigate between your last edit/view points. Useful for code/text edit and view, especially for many and large text files\r\n1. Automatically record the cursor position and modified points\r\n2. You can jump to any position that your cursor has visited.\r\n3. Can use shortcuts (Ctrl+- for previous position and Ctrl+Shift+- for next position) to jump forward and back in code\r\n4. Can jump to any modified points (Ctrl+Alt+Z) back and forward (Ctrl+Alt+Y)\r\n5. History positions are automatically adjusted when text is modified.\r\n6. Can record positions data when application exit and it will be loaded in next run.\r\n7. Can navigate only in current file",
 			"author": "Austin Young",
 			"homepage": "https://sourceforge.net/projects/locationnav/"
@@ -725,7 +705,7 @@
 			"display-name": "LuaScript",
 			"version": "0.12",
 			"id": "98991632f20d4fb5aa74cbb8ff5a604719485adfcd93405ad7a10ba61b0b20e8",
-			"repository": "https://github.com/dail8859/LuaScript/releases/download/v0.12/LuaScript_v0.12.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/LuaScript/v0.12/LuaScript_v0.12.zip",
 			"description": "Adds Lua scripting capabilities. This provides control over all of Scintilla's features and options with a light-weight, fully-functional programming language.",
 			"author": "Justin Dailey",
 			"homepage": "https://github.com/dail8859/LuaScript"
@@ -735,7 +715,7 @@
 			"display-name": "Markdown Panel",
 			"version": "0.7.3",
 			"id": "477c3056692fb29b588b07aaa6d18a4079a5f2ff781de63c8d23a5f37830f3d5",
-			"repository": "https://github.com/mohzy83/NppMarkdownPanel/releases/download/0.7.3.1/NppMarkdownPanel-0.7.3.0-x86.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/NppMarkdownPanel/0.7.3.1/NppMarkdownPanel-0.7.3.0-x86.zip",
 			"description": "Lightweight plugin to display rendered Markdown files.",
 			"author": "Mohzy83",
 			"homepage": "https://github.com/mohzy83/NppMarkdownPanel"
@@ -745,7 +725,7 @@
 			"display-name": "MarkdownViewer++",
 			"version": "0.8.2",
 			"id": "c62cce888f6a580c2e958480bd6bbed0e2c80f15ec1c422643650ed1eb1d0e3c",
-			"repository": "https://github.com/nea/MarkdownViewerPlusPlus/releases/download/0.8.2/MarkdownViewerPlusPlus-0.8.2-x86.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/MarkdownViewerPlusPlus/0.8.2/MarkdownViewerPlusPlus-0.8.2-x86.zip",
 			"description": "View Markdown/CommonMark compliant text files rendered on-the-fly directly in Notepad++ in a docked panel.\r\nExport the rendered result as HTML or PDF and configure the file extensions to be rendered.",
 			"author": "nea",
 			"homepage": "https://nea.github.io/MarkdownViewerPlusPlus/"
@@ -755,7 +735,7 @@
 			"display-name": "MenuIcons",
 			"version": "2.0.7",
 			"id": "3440084b521b14dc971af4dbfef39250fa51251185ebaee0670ebbe18c586053",
-			"repository": "https://github.com/francostellari/NppPlugins/raw/main/MenuIcons/MenuIcons_dll_2v07_x32.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/MenuIcons/MenuIcons_dll_2v07_x32.zip",
 			"description": "Adds icons to the main menu, tab menu, context menu, and the tabs themselves.",
 			"author": "Franco Stellari",
 			"homepage": "https://github.com/francostellari/NppPlugins"
@@ -765,7 +745,7 @@
 			"display-name": "Merge files in one",
 			"version": "1.2.0.0",
 			"id": "ea58934446fb94fca1c1d39db53a91f1ccb76ec17957782ebd8a90a134ee47f7",
-			"repository": "https://github.com/gurikbal/Merge-files-in-one/releases/download/1.2.0.0/Merge.files.in.one_x86.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/Merge.files.in.one/1.2.0.0/Merge.files.in.one_x86.zip",
 			"description": "Copy lines from multiple files into one.",
 			"author": "G. Singh",
 			"homepage": "https://github.com/gurikbal/Merge-files-in-one"
@@ -777,7 +757,7 @@
 			"npp-compatible-versions": "[8.4.7,]",
 			"old-versions-compatibility": "[,2.8][,8.4.6]",
 			"id": "bf58b3c9c07af0fe1190cb5ddee9274dcfd46d6948708c920246587ac52dce1f",
-			"repository": "https://github.com/npp-plugins/mimetools/releases/download/v3/mimetools.v3.0.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/mimetools/v3/mimetools.v3.0.zip",
 			"description": "Implements several main functionalities defined in MIME (Multipurpose Internet Mail Extensions): Base64, Quoted-printable and URL encode/decode",
 			"author": "Don HO",
 			"homepage": "https://github.com/npp-plugins/mimetools"
@@ -787,7 +767,7 @@
 			"display-name": "MultiClipboard",
 			"version": "2.1.0.0",
 			"id": "fba2177939eae03056b0baeb724fd73faabb95298cca4beea91fe0bc19c3df56",
-			"repository": "https://downloads.sourceforge.net/project/npp-plugins/MultiClipboard/MultiClipboard%202.1%20unicode/MultiClipboard_2.1_unicode_dll.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/MultiClipboard/MultiClipboard_2.1_unicode_dll.zip",
 			"description": "Implements multiple (10) text buffers that are filled via copying and/or cutting of text. To paste any text from the buffers, use Ctrl-V or middle mouse click (normal paste): to paste the most recently copied/cut text Ctrl-Shift-V or Shift-middle mouse click: to pop up a menu with the text buffer entries. Select the desired menu item to paste it.",
 			"author": "LoonyChewy",
 			"homepage": "https://sourceforge.net/projects/npp-plugins/files/MultiClipboard/"
@@ -798,7 +778,7 @@
 			"version": "2.2.0.9",
 			"npp-compatible-versions": "[8.5.4,]",
 			"id": "99d182b8dc1c482f59284b4a2e4c0e1a68a53c6167bf7cecc2571015b6017565",
-			"repository": "https://github.com/daddel80/notepadpp-multireplace/releases/download/2.2.0.9/MultiReplace-v2.2.0.9-Win32.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/MultiReplace/2.2.0.9/MultiReplace-v2.2.0.9-Win32.zip",
 			"description": "Advanced multi-string replacement, storage of search/replace patterns, CSV column highlighting and targeting, dynamic computational operations, and support for rectangular selection.",
 			"author": "Thomas Knoefel",
 			"homepage": "https://github.com/daddel80/notepadpp-multireplace"
@@ -808,7 +788,7 @@
 			"display-name": "MusicPlayer",
 			"version": "1.0.0.3",
 			"id": "0961a0238198fd2245b39a2303483aa0ddb028532db26dd6e0101ee0e5c406fb",
-			"repository": "https://github.com/gallettube/MusicPlayer/releases/download/1.0.11/MusicPlaye_1.0.11x86r.dll.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/MusicPlayer/1.0.11/MusicPlaye_1.0.11x86r.dll.zip",
 			"description": "Open and play music files.\r\nSupports: *.wav, *.mp3, *.aiff, *.wma",
 			"author": "Jon Galletero",
 			"homepage": "https://sourceforge.net/projects/nppmusicplayer"
@@ -818,7 +798,7 @@
 			"display-name": "MZC8051",
 			"version": "0.0.1",
 			"id": "fd8b7aeb3e6bfb0467b3fb46b4a01beb660a6a54d6f9867191982c6c6fa8a8e9",
-			"repository": "https://github.com/Jiangshan00001/npp_MZC8051/releases/download/0.0.1/MZC8051_x86.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/MZC8051/0.0.1/MZC8051_x86.zip",
 			"description": "a 8051 c compiler plugin within notepad++.",
 			"author": "Jiangshan00001",
 			"homepage": "https://github.com/Jiangshan00001/npp_MZC8051"
@@ -828,7 +808,7 @@
 			"display-name": "NativeLang",
 			"version": "1.1.0.0",
 			"id": "efb28bdd378a59924239b9dce61cd6fc43f163f9c27af972effa3af6ddf1abc3",
-			"repository": "https://downloads.sourceforge.net/sourceforge/npp-plugins/NativeLang_1_2_dll.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/NativeLang/NativeLang_1_2_dll.zip",
 			"description": "Helper plugin that allows other plugins to translate their menus and dialogs.",
 			"author": "Jens Lorenz",
 			"homepage": "https://sourceforge.net/projects/npp-plugins/files/NativeLang/"
@@ -838,8 +818,8 @@
 			"display-name": "NavigateTo",
 			"version": "2.6.4.0",
 			"id": "8a6b5c110cd195bf5d51677e157860a86ee1e7e3b5bf7da8a26ef846545eafba",
-			"repository": "https://github.com/young-developer/nppNavigateTo/releases/download/v.2.6.4/NavigateTo_v.2.6.4_v142_x86.zip",
-			"description": "Do you have more then 10 open tabs? Then this plugin is for you.\r\nNew and efficient way to quickly navigate between tabs (files). Allows you to search for a symbol or filename, filepath by matching against a keyword you type, and get a real-time preview while going through the search results with the Shift key.\r\nAnd YES, you can uncheck the Multi-line option, in the Preferences &gt; General &gt; Tab Bar zone because you don’t need the multi-lines tab feature anymore :)\r\nAuthor: Oleksii Maryshchenko\r\nEmail: oleksii.maryshchenko@gmail.com \r\n Contributors: https://github.com/molsonkiko",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/NavigateTo/v.2.6.4/NavigateTo_v.2.6.4_v142_x86.zip",
+			"description": "Do you have more then 10 open tabs? Then this plugin is for you.\r\nNew and efficient way to quickly navigate between tabs (files). Allows you to search for a symbol or filename, filepath by matching against a keyword you type, and get a real-time preview while going through the search results with the Shift key.\r\nAnd YES, you can uncheck the Multi-line option, in the Preferences &gt; General &gt; Tab Bar zone because you don��t need the multi-lines tab feature anymore :)\r\nAuthor: Oleksii Maryshchenko\r\nEmail: oleksii.maryshchenko@gmail.com \r\n Contributors: https://github.com/molsonkiko",
 			"author": "Oleksii Maryshchenko",
 			"homepage": "https://github.com/young-developer/nppNavigateTo"
 		},
@@ -848,7 +828,7 @@
 			"display-name": "NewFileBrowser",
 			"version": "0.1.3",
 			"id": "213f3bdd4572c0e11225070bc9057d6c07f586c22fd5b93130f2e2d9febb681b",
-			"repository": "https://sourceforge.net/projects/locationnav/files/NewFileBrowser_v0.1.3.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/NewFileBrowser/NewFileBrowser_v0.1.3.zip",
 			"description": "Define 20 new file's initial text and have an inner web browser which can run current file.",
 			"author": "Austin Young",
 			"homepage": "https://sourceforge.net/projects/locationnav/"
@@ -858,21 +838,10 @@
 			"display-name": "Notepad++ bplist plugin",
 			"version": "2.0.0.3",
 			"id": "be7c58a29c694a35698b5d0296d52d9b4ddf187b706668cec609a8907cecb87c",
-			"repository": "https://github.com/azerg/NppBplistPlugin/releases/download/2.0.0.3/NppBplistPlugin_x86.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/NppBplistPlugin/2.0.0.3/NppBplistPlugin_x86.zip",
 			"description": "Supports viewing/editing binary plist files. Due to the fact that ordinary plist files have XML format, this plugin does not support them. It only loads binary plist files (bplist).",
 			"author": "Sergiy Azarovsky",
 			"homepage": "https://github.com/azerg/NppBplistPlugin"
-		},
-		{
-			"folder-name": "NppOpenAI",
-			"display-name": "NppOpenAI",
-			"version": "0.2.1.2",
-			"npp-compatible-versions": "[8.4.8,]",
-			"id": "b3688a57fe50d7cb632fbc14272791eb8bb3922e84d4547a6025a5ffaa50339b",
-			"repository": "https://github.com/Krazal/nppopenai/releases/download/v0.2.1.2/NppOpenAI_x86.zip",
-			"description": "OpenAI (aka. ChatGPT) plugin for Notepad++. Simply select your text, press Ctrl + Shift + O, and you'll see the AI generated response in seconds. Some examples: 'Please create a Fibonacci function in PHP'; 'Mi az árvíztűrő tükörfúrógép?' (Hungarian Unicode test) etc. This plugin requires an active internet connection and an OpenAI registration / API key (handles it confidential).",
-			"author": "Richárd Stockinger",
-			"homepage": "https://github.com/Krazal/nppopenai"
 		},
 		{
 			"folder-name": "NppPluginDemo",
@@ -881,7 +850,7 @@
 			"npp-compatible-versions": "[8.4.7,]",
 			"old-versions-compatibility": "[,4.2][,8.4.6]",
 			"id": "3e494d6bd448ea29fdfa6528fc6992dedfbc2a8bde26d759bec9d4164cd56e22",
-			"repository": "https://github.com/npp-plugins/plugindemo/releases/download/v4.3/pluginDemo.v4.3.bin.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/NppPluginDemo/v4.3/pluginDemo.v4.3.bin.zip",
 			"description": "Notepad++ Plugin Demo is written from Notepad++ Plugin Template to demonstrate the usage of plugin API.",
 			"author": "Don HO",
 			"homepage": "https://npp-user-manual.org/docs/plugins/"
@@ -893,7 +862,7 @@
 			"npp-compatible-versions": "[8.4.7,]",
 			"old-versions-compatibility": "[,4.2][,8.4.6]",
 			"id": "67bf811591cd4197231d770e41582f5bf5b002e195996c399153e1ea391ba53a",
-			"repository": "https://github.com/npp-plugins/plugintemplate/releases/download/v4.3/pluginTemplate.v4.3.bin.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/NppPluginTemplate/v4.3/pluginTemplate.v4.3.bin.zip",
 			"description": "Template for making plugin development as easy and simple as possible. Four steps and it's done.",
 			"author": "Don HO",
 			"homepage": "https://npp-user-manual.org/docs/plugins/"
@@ -903,7 +872,7 @@
 			"display-name": "NotepadStarterPlugin",
 			"version": "2.3.3.0",
 			"id": "b9947231ebd82e547866d805551f96a9002ad8e6ea4410a27a0754e6e4f64614",
-			"repository": "https://github.com/lygstate/NotepadStarter/releases/download/2.3.3.0/NotepadStarter_2.3.3.0_Win32.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/NotepadStarterPlugin/2.3.3.0/NotepadStarter_2.3.3.0_Win32.zip",
 			"description": "When it is installed as a Notepad++ plugin or running NotepadStarter.exe in the Notepad++ app directory, it will automatically replace the system default notepad.exe application with Notepad++ (without need to remove anything from the Windows system.). It's tested under Windows 7, but Windows XP should also work.",
 			"author": "Yonggang Luo",
 			"homepage": "https://github.com/lygstate/NotepadStarter/"
@@ -915,7 +884,7 @@
 			"npp-compatible-versions": "[8.4.7,]",
 			"old-versions-compatibility": "[,4.4][,8.4.6]",
 			"id": "931189299273bba435d117417dab2d8e715b5559c417024116c0f84f69d48a3d",
-			"repository": "https://github.com/npp-plugins/converter/releases/download/v4.5/nppConvert.v4.5.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/nppConverter/v4.5/NppConvert.v4.5.zip",
 			"description": "ASCII<->Hex converter.",
 			"author": "Don HO",
 			"homepage": "https://github.com/npp-plugins/converter/"
@@ -927,27 +896,17 @@
 			"npp-compatible-versions": "[8.3,]",
 			"old-versions-compatibility": "[,1.3][,8.2.1]",
 			"id": "1d7e0b0d8aeefbaed8734cb8261b0952200f0299d52adc8f462441a319f92d53",
-			"repository": "https://github.com/cmbsolutions/nppRandomStringGenerator/releases/download/v1.9.0/nppRandomStringGenerator.1.9.0.x86.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/nppRandomStringGenerator/v1.9.0/nppRandomStringGenerator.1.9.0.x86.zip",
 			"description": "Generates random strings with configurable output.",
 			"author": "Maurice CMBSolutions",
 			"homepage": "https://github.com/cmbsolutions/nppRandomStringGenerator"
-		},
-		{
-			"folder-name": "NppXmlTreeviewPlugin",
-			"display-name": "Npp Xml Treeview",
-			"version": "2.0.0",
-			"id": "d18c0c61b9d070aeba138a0ac3cb98d9ece4efbe6181cf71dbd6f9a1b00fedb9",
-			"repository": "https://github.com/joaoasrosa/nppxmltreeview/releases/download/v2.0.0/NppXMLTreeViewPlugin_x86.zip",
-			"description": "Treeview visualization for XML files.",
-			"author": "João Rosa",
-			"homepage": "https://github.com/joaoasrosa/nppxmltreeview/"
 		},
 		{
 			"folder-name": "NppAutoIndent",
 			"display-name": "NppAutoIndent",
 			"version": "1.2.0.0",
 			"id": "22cd5ef26c777727e8c7c8b56e1e00e509737bfb3e6a57dddc37b2739419210a",
-			"repository": "https://downloads.sourceforge.net/sourceforge/npp-plugins/NppAutoIndent_1_2_dll.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/NppAutoIndent/NppAutoIndent_1_2_dll.zip",
 			"description": "Smart indentation for C-style languages, such as C/C++, PHP, and Java. There is NO support for HTML/XML and such, maybe later, tag matching is much more difficult to implement.",
 			"author": "Harrybharry",
 			"homepage": "https://sourceforge.net/projects/npp-plugins/files/NppAutoIndent/"
@@ -957,7 +916,7 @@
 			"display-name": "NppCalc",
 			"version": "1.5",
 			"id": "56f4d908552f5611fb0f8dda817f4ef0075f161d556767b0559bd6118a6dc771",
-			"repository": "https://sourceforge.net/projects/nppcalc/files/nppcalc_1.5_bin.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/nppcalc/nppcalc_1.5_bin.zip",
 			"description": "Evaluate expressions in Notepad++.\r\nWorks with math, trigonometry, statistics, combinatorics, arrays, sets, bits, strings, dates, color, image, measurement, file and folder, RS-232, TCP/IP, encoding, encryption, hashing, compression, etc. Over 400 functions.\r\nQ: How does this work?\r\nA: Just type function name and press Enter!",
 			"author": "RinOSpro",
 			"homepage": "https://sourceforge.net/projects/nppcalc/"
@@ -967,7 +926,7 @@
 			"display-name": "NppCrypt",
 			"version": "1.0.1.6",
 			"id": "29a8804a88f96c8086a0b77f0181279524ce85d1ebaa4094d4a32453a3c39bf1",
-			"repository": "https://github.com/jeanpaulrichter/nppcrypt/releases/download/1.0.1.6/nppcrypt_1.0.1.6_x86.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/nppcrypt/1.0.1.6/nppcrypt_1.0.1.6_x86.zip",
 			"description": "Encryption/decryption with various block ciphers, hash-algorithms, random-characters, encoding with Base-16/32/64.",
 			"author": "Jean Paul Richter",
 			"homepage": "https://github.com/jeanpaulrichter/nppcrypt"
@@ -977,7 +936,7 @@
 			"display-name": "NppEventExec",
 			"version": "0.9.0",
 			"id": "4402d18ca936d3a53462cf31749766077f54e6eb6b1acb9cab1a96c1979d6c16",
-			"repository": "https://github.com/MIvanchev/NppEventExec/releases/download/v0.9.0/NppEventExec-plugin-x86-0.9.0.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/NppEventExec/v0.9.0/NppEventExec-plugin-x86-0.9.0.zip",
 			"description": "Allows automatically executing NppExec scripts on Notepad++ events. You can use it, for example, to format and compile source code.",
 			"author": "Mihail Ivanchev",
 			"homepage": "https://github.com/MIvanchev/NppEventExec"
@@ -987,7 +946,7 @@
 			"display-name": "NppExec",
 			"version": "0.8.4",
 			"id": "f6906bce916570ae70bc042c06e5cee0f94bcb026392d51eddfc1c26ff1f8d14",
-			"repository": "https://github.com/d0vgan/nppexec/releases/download/v084/NppExec_084_dll.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/NppExec/v084/NppExec_084_dll.zip",
 			"description": "Execute commands or saved scripts without leaving Notepad++.",
 			"author": "Vitaliy Dovgan",
 			"homepage": "https://github.com/d0vgan/nppexec"
@@ -997,7 +956,7 @@
 			"display-name": "NppExport",
 			"version": "0.4.0.0",
 			"id": "149b1211cdc1df25725be002cfbfeb29c69107fa4fa25bc1594972c74b65bde0",
-			"repository": "https://github.com/chcg/NPP_ExportPlugin/releases/download/0.4.0/NppExport_0.4.0_Win32.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/NppExport/0.4.0/NppExport_0.4.0_Win32.zip",
 			"description": "True WYSIWYG exporter. Allows you not only to save your source code as an HTML/RTF file, but also to copy your source code in the clipboard in RTF/HTML format, so you can paste it into your word processor (Openoffice.org Writer, LibreOffice Writer, Abiword, MS Word) to get the same visual effect.",
 			"author": "",
 			"homepage": "https://github.com/chcg/NPP_ExportPlugin"
@@ -1007,7 +966,7 @@
 			"display-name": "NppFavorites",
 			"version": "1.0.0.1",
 			"id": "2fe563d3c926bc510e1ca913c3c8c3aad2277b3fa1a602ec4c4d0acf95ce5097",
-			"repository": "https://github.com/heldersepu/nppfavorites/releases/download/1.0.0.1.21/NppFavorites_1.0.0.1.21_x86.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/NppFavorites/1.0.0.1.21/NppFavorites_1.0.0.1.21_x86.zip",
 			"description": "Favorites plugin.\r\nNotepad++ does not come with favorites. This is a simple solution to that problem.",
 			"author": "Helder Sepulveda",
 			"homepage": "https://github.com/heldersepu/nppfavorites"
@@ -1015,9 +974,9 @@
 		{
 			"folder-name": "NppFTP",
 			"display-name": "NppFTP",
-			"version": "0.29.13",
-			"id": "239fe7e0dde9cbeb2ce4a3192e792509ecbff19ffa6d78cfaab4e4f46c86668a",
-			"repository": "https://github.com/ashkulz/NppFTP/releases/download/v0.29.13/NppFTP-x86.zip",
+			"version": "0.30.18",
+			"id": "940d8c4a3a9e3fa04aeebc3c1c737e759c7c4071e75f130fa8607922880cfd8c",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/NppFTP/v0.30.18/NppFTP-x86.zip",
 			"description": "Allows FTP, FTPS, FTPES, and SFTP communications. Very useful for web development.",
 			"author": "ashish_kulz",
 			"homepage": "https://ashkulz.github.io/NppFTP/"
@@ -1027,7 +986,7 @@
 			"display-name": "NppGist",
 			"version": "1.5.1.35",
 			"id": "bb37f65ea6f218d46b06c977aa26a385246f5c7313c76d194568286ce93951d6",
-			"repository": "https://github.com/KvanTTT/NppGist/releases/download/1.5.1/NppGist-x86-1.5.1.35.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/NppGist/1.5.1/NppGist-x86-1.5.1.35.zip",
 			"description": "Allows working with GitHub Gist (create, edit, remove, rename).",
 			"author": "Ivan Kochurkin (KvanTTT)",
 			"homepage": "https://github.com/KvanTTT/NppGist"
@@ -1039,27 +998,17 @@
 			"npp-compatible-versions": "[8.4.7,]",
 			"old-versions-compatibility": "[,5.0.0][8.4.2,8.4.6]",
 			"id": "6b8fd45941305b2fa80eb8ef345e2c6224c4a0ad803f8e4b9a2f33113ff9caec",
-			"repository": "https://github.com/pnedev/nppgtags/releases/download/v5.1.1/NppGTags_v5.1.1_x86.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/NppGTags/v5.1.1/NppGTags_v5.1.1_x86.zip",
 			"description": "Front-end to GNU Global source code tagging system (GTags). Provides code indexing and search/navigation tools for various languages.",
 			"author": "Pavel Nedev",
 			"homepage": "https://github.com/pnedev/nppgtags"
-		},
-		{
-			"folder-name": "NppHasher",
-			"display-name": "NppHash",
-			"version": "1.0",
-			"id": "9b013b43ffa3c4de550036c6299407d1f370f4ba90186c7b4987096577c8033a",
-			"repository": "https://download.tuxfamily.org/nppplugins/NppHashMaker/NppHashMaker.v1.0.zip",
-			"description": "Computes the hash of selected text.\r\nProvides hash result base64 encoded (optional).\r\nCoded in C# by using .NET Framework.\r\nIt's under GPL.\r\n\r\nSupported hash methods:\r\n1. MD5\r\n2. SHA1\r\n3. SHA256\r\n4. SHA384\r\n5. SHA512",
-			"author": "Don Ho",
-			"homepage": "https://github.com/npp-plugins/hasher"
 		},
 		{
 			"folder-name": "Npp-Highlighter",
 			"display-name": "Npp Highlighter",
 			"version": "1.0.0.1",
 			"id": "9ee68f05dfbbdc5af6e1980bb50daeb66debf9b9a133ece1f0b47e41cbf01dde",
-			"repository": "https://github.com/michaelxzhang/Npp-Highlighter/releases/download/v1.0.0.1/Npp-Highlighter_x86.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/Npp-Highlighter/v1.0.0.1/Npp-Highlighter_x86.zip",
 			"description": "Npp-Highlighter draw indicator on scroll bar when:\r\n- line contents changed\r\n- double clicked and smart highlighted words\r\n- text highlighted by Style token",
 			"author": "Michael Zhang",
 			"homepage": "https://github.com/michaelxzhang/Npp-Highlighter/"
@@ -1069,7 +1018,7 @@
 			"display-name": "NppJumpList",
 			"version": "1.2.2",
 			"id": "24d7bba7c9596963cb30f9c4bd40165086f9795912a87a52354d94627275d20d",
-			"repository": "https://github.com/chcg/JumpList/releases/download/1.2.2.10/NppJumpList_1.2.2.10_Win32.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/NppJumpList/1.2.2.10/NppJumpList_1.2.2.10_Win32.zip",
 			"description": "Adds Windows 7 jump list support.",
 			"author": "ahvgeezer",
 			"homepage": "https://sourceforge.net/projects/nppjumplist/"
@@ -1079,7 +1028,7 @@
 			"display-name": "NppMenuSearch",
 			"version": "0.9.6",
 			"id": "7FC4D9DE6A117795C90AA36DC288C13D1E1B679A5F8AB642B0220A7F69E211E8",
-			"repository": "https://sourceforge.net/projects/nppmenusearch/files/v0.9.6/NppMenuSearch_v0.9.6_x86.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/NppMenuSearch/v0.9.6/NppMenuSearch_v0.9.6_x86.zip",
 			"description": "Adds a text field to the toolbar for searching menu items and preference dialog options.",
 			"author": "Peter Frentrup",
 			"homepage": "https://github.com/peter-frentrup/NppMenuSearch"
@@ -1089,7 +1038,7 @@
 			"display-name": "NppNetNote",
 			"version": "0.1.0.0",
 			"id": "5bdecb089e11fe96671a1b2ddfd7f4626eeed8ae44fc232f5717f729e1891aaf",
-			"repository": "https://github.com/chcg/NppDocShare/releases/download/0.1.13/NppDocShare_0.1.13_Win32.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/NppDocShare/0.1.13/NppDocShare_0.1.13_Win32.zip",
 			"description": "Allows the same document to be edited in real time on two different computers. Only needs a network connection between the two.",
 			"author": "Harrybharry",
 			"homepage": "https://sourceforge.net/projects/npp-plugins/files/NppDocShare/"
@@ -1099,7 +1048,7 @@
 			"display-name": "NppPluginOpenHost",
 			"version": "1.1.0.0",
 			"id": "05cd63ae7b567a1fdda3687ba2acbf51a77798af59b23052fe4b503ed1810e8b",
-			"repository": "https://github.com/jejemorg/NppPluginOpenHost/raw/main/bin/NppPluginOpenHost.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/NppPluginOpenHost/v1.1.0.0/x86/NppPluginOpenHost.zip",
 			"description": "Allow to open Host file on Windows",
 			"author": "jejemorg",
 			"homepage": "https://github.com/jejemorg/NppPluginOpenHost/"
@@ -1109,7 +1058,7 @@
 			"display-name": "NppQrCode",
 			"version": "0.0.0.2",
 			"id": "0a5fd708e4e331ddc086962990284d0241046dc1acffb2fde9870a0e048ab8db",
-			"repository": "https://github.com/rdipardo/nppQrCode/releases/download/v0.0.0.2/NppQrCode-0.0.0.2-win32.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/NppQrCode/NppQrCode-0.0.0.2-win32.zip",
 			"description": "Creates a QR code from selected text. Just select some text and click the toolbar button.",
 			"author": "Vladimir Korobenkov",
 			"homepage": "https://github.com/rdipardo/nppQrCode"
@@ -1119,7 +1068,7 @@
 			"display-name": "NppRegExTractor",
 			"version": "2.1.0",
 			"id": "dc228493da3eff8ad3449284f9c91b5a9a3a54401c965b97b2f4dae2a822f138",
-			"repository": "https://github.com/viper3400/NppRegExTractor/releases/download/2.1.0/NppRegExTractor_2.1.0_BUILD_6_x86.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/NppRegExTractor/2.1.0/NppRegExTractor_2.1.0_BUILD_6_x86.zip",
 			"description": "Search one or more regular expression in one or more different files and get XML search results.",
 			"author": "Jan Graefe",
 			"homepage": "https://github.com/viper3400/RegExTractor/wiki/de_userdocumentation"
@@ -1129,7 +1078,7 @@
 			"display-name": "NppTags",
 			"version": "0.9.1",
 			"id": "522eb49c0558482f6dcd8e1dc68bb7fd2e8141cc7861a68a0ed6e3528ed003a5",
-			"repository": "https://github.com/ffes/npptags/releases/download/v0.9.1/NppTags-091-x32.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/NppTags/v0.9.1/NppTags-091-x32.zip",
 			"description": "NppTags is a Universal Ctags plug-in to browse through your sources easily and lets you jump to a selected function / variable / class / etc in your code by pressing just one key.",
 			"author": "Frank Fesevur",
 			"homepage": "https://www.fesevur.com/npptags"
@@ -1139,7 +1088,7 @@
 			"display-name": "NppTextViz",
 			"version": "0.4.2",
 			"id": "8bfefc05f32c8e2ef4eb67b4550da3a7e3be9370eaf379bb899f11b6849867ff",
-			"repository": "https://github.com/KubaDee/NppTextViz/releases/download/v0.4.2/NppTextViz_x86_v0.4.2.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/NppTextViz/v0.4.2/NppTextViz_x86_v0.4.2.zip",
 			"description": "Hide or show lines to help analyse larger files - logs for example. Can hide all lines that contain text pattern. Or simply select several lines and hide them. Based on TextFX plugin v0.25 by Chris Severance.",
 			"author": "Jakub Dvorak",
 			"homepage": "https://github.com/KubaDee/NppTextViz"
@@ -1151,7 +1100,7 @@
 			"npp-compatible-versions": "[7.0,]",
 			"old-versions-compatibility": "[,1.0.4][7.0,]",
 			"id": "a9d189d506c80835c83f7564b7da750a4cf8aa9766ad391ef013bad3cfeed527",
-			"repository": "https://github.com/dinkumoil/NppUISpy/releases/download/v1.2/NppUISpy_v1.2_UNI.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/NppUISpy/v1.2/NppUISpy_v1.2_UNI.zip",
 			"description": "Determine the menu command ID's of Notepad++ menu items and toolbar buttons.",
 			"author": "Andreas Heim",
 			"homepage": "https://github.com/dinkumoil/NppUISpy"
@@ -1161,7 +1110,7 @@
 			"display-name": "Open File In Solution",
 			"version": "3.0.1",
 			"id": "9306E7EBAF36247C61F26C7F215518835A7BD96EAD37458A8F2BE295CDF08CDB",
-			"repository": "https://github.com/incrediblejr/nppplugins/releases/download/v3.0.1/nppplugin_ofis2_x86.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/nppplugin_ofis2/v3.0.1/nppplugin_ofis2_x86.zip",
 			"description": "Lets you index specific folders and possible specific types of resources (XML, CPP, PY files) for a fast indexing of files.",
 			"author": "IncredibleJunior",
 			"homepage": "https://www.incrediblejunior.com/npp_plugins/"
@@ -1172,7 +1121,7 @@
 			"version": "1.2.0.2300",
 			"npp-compatible-versions": "[8.3,]",
 			"id": "03f0cbda8bde6e4d68a439e82b1d50e35278050d8bb28e5ed35646e73ff4e52e",
-			"repository": "https://github.com/Leonard-The-Wise/NWScript-Npp/releases/download/v1.2.0/nwscript-npp.v1.2.0-x86.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/nwscript-npp/v1.2.0/nwscript-npp.v1.2.0-x86.zip",
 			"description": "View, edit and compile Bioware's NWScript files with this plugin. Use customized color-syntax for your personalized tokens and also for engine-defined ones. Can disassemble compiled scripts and build makefile dependencies. Also has a feature to process files in configurable batches.",
 			"author": "Leonardo Silva",
 			"homepage": "https://github.com/Leonard-The-Wise/NWScript-Npp"
@@ -1182,7 +1131,7 @@
 			"display-name": "OpenSelection",
 			"version": "1.1.3.0",
 			"id": "b51b53d4110898f66c264d4fac2faeb52aefd59a26072da9eab69fc031bd3106",
-			"repository": "https://github.com/francostellari/NppPlugins/raw/main/OpenSelection/OpenSelection_dll_1v13_x32.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/OpenSelection/OpenSelection_dll_1v13_x32.zip",
 			"description": "Open files based on the selected text. A typical applications is 'include' files of may types of programs. Another applications is to open Matlab functions. Can be customized for different languages based on the open file extension. Multiple search folders may be specified along with multiple extensions.",
 			"author": "Franco Stellari",
 			"homepage": "https://github.com/francostellari/NppPlugins"
@@ -1192,7 +1141,7 @@
 			"display-name": "Papyrus Script Lexer",
 			"version": "1.2.2.354",
 			"id": "9ff1fa2b10da73e353abc6a7d3e905e51d2c9fb398787808d76627b631195487",
-			"repository": "https://github.com/blu3mania/npp-papyrus/releases/download/v1.2.2/PapyrusPlugin-v1.2.2-x86.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/Papyrus/v1.2.2/PapyrusPlugin-v1.2.2-x86.zip",
 			"description": "View and edit Papyrus Script files used by Bethesda games with syntax highlighting, function and block folding, hyperlinks to referenced scripts, keywords matching, plus compilation support with anonymized output and error list view.",
 			"author": "blu3mania",
 			"homepage": "https://github.com/blu3mania/npp-papyrus"
@@ -1202,7 +1151,7 @@
 			"display-name": "PHP Autocompletion",
 			"version": "1.4.1",
 			"id": "86d29d7a7998eec33cff35af54071ecf767c014048755cfbc0e54c1fda9d73d8",
-			"repository": "https://github.com/StanDog/npp-phpautocompletion/raw/master/RELEASES/ccc_1.4.1.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/ccc/ccc_1.4.1.zip",
 			"description": "Implements code completion for custom PHP classes. Keeps an overview over your classes' attributes &amp; methods in a nice popup!\r\nA popup window appears after typing the \"-&gt;\" or \"::\" behind a class or an instantiated object variable which displays all attributes and methods of it's class. As soon as the popup appears you can type in the name of the method or attribute you are looking for and the plugin will select it in the list automatically. Hitting [return] or double clicking the entry will insert the name of the property to your script. Additionally, there is a list with all classes and their properties in a dockable window. Double-clicking this entry opens their file &amp; jumps right to the declaration. The list also offers a quick search function.",
 			"author": "Stanislav Eckert",
 			"homepage": "https://github.com/StanDog/npp-phpautocompletion"
@@ -1213,7 +1162,7 @@
 			"version": "1.6.0.10",
 			"npp-compatible-versions": "[8.3,]",
 			"id": "5d37db0bebdae6ece28316fbff642d09e8fc3bbd38925865d919d09b4cfb96ce",
-			"repository": "https://github.com/Fruchtzwerg94/PlantUmlViewer/releases/download/1.6.0.10/PlantUmlViewer_v1.6.0.10_x86.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/PlantUmlViewer/1.6.0.10/PlantUmlViewer_v1.6.0.10_x86.zip",
 			"description": "A Notepad++ plugin to generate view and export PlantUML diagrams.",
 			"author": "Philipp Schmidt",
 			"homepage": "https://github.com/Fruchtzwerg94/PlantUmlViewer"
@@ -1223,7 +1172,7 @@
 			"display-name": "Poor Man's T-Sql Formatter",
 			"version": "1.6.13.31502",
 			"id": "a4a130b8163a323fcccdb1793c7a544c430e50fbeb87bf708cd196ddbce4682e",
-			"repository": "https://github.com/TaoK/PoorMansTSqlFormatter/releases/download/1.6.13/SqlFormatterNppPlugin.1.6.13.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/PoorMansTSqlFormatterNppPlugin/1.6.13/SqlFormatterNppPlugin.1.6.13.zip",
 			"description": "Simple SQL formatter performing full multi-batch T-SQL formatting (individual statements, stored procedures, any DML, any DDL) with numerous formatting options.",
 			"author": "Tao Klerks",
 			"homepage": "http://architectshack.com/PoorMansTSqlFormatter.ashx"
@@ -1235,27 +1184,17 @@
 			"npp-compatible-versions": "[8.4.7,]",
 			"old-versions-compatibility": "[,2.2][,8.4.6]",
 			"id": "6c8961afc9173e771ba8ce87f035a0bd1eb801340196a2283fc3724cdc0419a3",
-			"repository": "https://github.com/npp-plugins/pork2sausage/releases/download/v2.3/pork2sausage.2.3.bin.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/pork2sausage/v2.3/pork2sausage.2.3.bin.zip",
 			"description": "Pass any selected text to any command line program as input and take the output (the result of program) to replace the selected text.",
 			"author": "Don HO",
 			"homepage": "https://github.com/npp-plugins/pork2sausage"
-		},
-		{
-			"folder-name": "PreviewHTML",
-			"display-name": "Preview HTML",
-			"version": "1.3.2.0",
-			"id": "b7538d5b4c61e7232ad6befe3a5eb1799544a4de741d4acd896716e9273f260b",
-			"repository": "https://fossil.2of4.net/npp_preview/zip/PreviewHTML32.zip%3Fname%3D%26uuid%3Dv1.3.2.0-32",
-			"description": "Preview HTML files inside Notepad++ (or in a floating window) without having to save them first.",
-			"author": "Martijn Coppoolse",
-			"homepage": "https://fossil.2of4.net/npp_preview"
 		},
 		{
 			"folder-name": "PyNPP",
 			"display-name": "PyNPP",
 			"version": "1.2",
 			"id": "e5ac10066afdf1bde3f5b1b1219b9556989dc43c0cbcf7a8e2dc81b0e84bd67f",
-			"repository": "https://github.com/mpcabd/PyNPP/releases/download/v1.2/PyNPP.dll.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/PyNPP/PyNPP.dll.zip",
 			"description": "Allows writing Python scripts and run them from Notepad++ without having to open a command line prompt.",
 			"author": "Abdullah Diab",
 			"homepage": "https://mpcabd.xyz/notepad-plugin-to-run-python-scripts/"
@@ -1265,7 +1204,7 @@
 			"display-name": "Python Indent",
 			"version": "1.0.0.5",
 			"id": "64cc14e1aeb7f2565bd628bd741b8d5582673efc3f846efeacdedf99e871ad90",
-			"repository": "https://sourceforge.net/projects/kered13-notepad-plugins/files/Python%20Indent%20Win32%20v1.0.0.5.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/Python_Indent/Python%20Indent%20Win32%20v1.0.0.5.zip",
 			"description": "Python auto-indent plugin.",
 			"author": "Derek Brown",
 			"homepage": "https://sourceforge.net/projects/kered13-notepad-plugins/"
@@ -1275,27 +1214,17 @@
 			"display-name": "PythonScript",
 			"version": "2.0.0.0",
 			"id": "6c5d4a51e511710b892f3ff3f443c0d7763e686cfd7ffb9888789c8ce09318b9",
-			"repository": "https://github.com/bruderstein/PythonScript/releases/download/v2.0.0/PythonScript_Full_2.0.0.0_PluginAdmin.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/PythonScript/v2.0.0/PythonScript_Full_2.0.0.0_PluginAdmin.zip",
 			"description": "Python Script plugin.",
 			"author": "Dave Brotherstone + Jocelyn Legault",
 			"homepage": "https://github.com/bruderstein/PythonScript"
-		},
-		{
-			"folder-name": "NppQCP",
-			"display-name": "Quick Color Picker +",
-			"version": "2.0",
-			"id": "ce03eb04f13a29c60435fee23032b7414c22614cfe00f07e160d687dc1faed87",
-			"repository": "https://s3-ap-southeast-1.amazonaws.com/nppqcp/nppqcp-2.0.zip",
-			"description": "HEX/RGB/RGBA/HSL/HSLA color code highlighter.\r\n* Double-click activation of Color Picker\r\n* Allow assigning hotkeys for Color Picker and Screen Picker\r\n* Professional color palette\r\n* Quick HSLA color tuning\n* Screen color picker\r\n* Access Windows Color Chooser",
-			"author": "NPlus",
-			"homepage": "https://github.com/nulled666/nppqcp/"
 		},
 		{
 			"folder-name": "QuickOpenPlugin",
 			"display-name": "QuickOpenPlugin",
 			"version": "1.1",
 			"id": "43d57c67a30a777076a4d4083b9c6c914898028d21d0094c8f54cd58ffa803de",
-			"repository": "https://downloads.sourceforge.net/project/quickopenplugin/QuickOpenPlugin%20V1.2.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/QuickOpenPlugin/QuickOpenPlugin%20V1.2.zip",
 			"description": "Mimics the \"open selected file\" in PSPad.\r\nI am a PHP developer and often see 'require_once(\"../this/is/some/file.php\");'. In pspad you can select the whole path (../this/is/some/file.php) and open it from the menu.\r\nNow you can do the same in Notepad++. Just select the whole path and press Alt+O, or use the button in the toolbar on top. It will open the file automatically.\r\nUnderstands the relative path.",
 			"author": "Sandor Gezel",
 			"homepage": "https://sourceforge.net/projects/quickopenplugin/"
@@ -1305,7 +1234,7 @@
 			"display-name": "QuickText",
 			"version": "0.2.5.1",
 			"id": "8fa56545d59bbc94d85808cd6ff91666165cb861645d630e9d37f6836fbb14f6",
-			"repository": "https://github.com/vinsworldcom/nppQuickText/releases/download/0.2.5.1/QuickText-v0.2.5.1-Win32.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/QuickText/0.2.5.1/QuickText-v0.2.5.1-Win32.zip",
 			"description": "Quick text substitution, including multi-field inputs. Similar to Tab Triggers in TextMate.",
 			"author": "Joao Moreno, Jing Teng",
 			"homepage": "https://github.com/vinsworldcom/nppQuickText"
@@ -1315,7 +1244,7 @@
 			"display-name": "Random Values",
 			"version": "0.3",
 			"id": "ecdc1a08445a20bcc4d59f598b2743d3290f9ec42c2419ff1784027f1a6cbc68",
-			"repository": "https://github.com/BdR76/RandomValuesNPP/releases/download/0.3/RandomValuesNppPlugin_x86.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/RandomValues/0.3/RandomValuesNppPlugin_x86.zip",
 			"description": "Random values generator for passwords or test data. Generate single value string, int, decimal, datetime, guid or csv, xml, json, sql.",
 			"author": "Bas de Reuver",
 			"homepage": "https://github.com/BdR76/RandomValuesNPP/"
@@ -1325,7 +1254,7 @@
 			"display-name": "RDMD for Notepad++ (English)",
 			"version": "0.1.0.2",
 			"id": "ad00a5596a89dee788c4d192e93b23448f9a079b38a556a7fbe46d5cef2b6858",
-			"repository": "https://gitlab.com/dokutoku/rdmd-for-npp/uploads/16bb4134bb134a94042e75115ba03511/rdmd-en-x86.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/rdmd-en/rdmd-en-x86.zip",
 			"description": "Runs rdmd in Notepad++ (English).",
 			"author": "dokutoku",
 			"homepage": "https://gitlab.com/dokutoku/rdmd-for-npp"
@@ -1335,7 +1264,7 @@
 			"display-name": "RDMD for Notepad++ (Japanese)",
 			"version": "0.1.0.2",
 			"id": "8728fc8df7572cd1752fc1cc792e8c51f0967007862014cb222b8ae9488dc803",
-			"repository": "https://gitlab.com/dokutoku/rdmd-for-npp/uploads/782a51c58fc5cf815e206239a22379f5/rdmd-ja-x86.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/rdmd-ja/rdmd-ja-x86.zip",
 			"description": "Runs rdmd in Notepad++ (Japanese).",
 			"author": "dokutoku",
 			"homepage": "https://gitlab.com/dokutoku/rdmd-for-npp"
@@ -1345,7 +1274,7 @@
 			"display-name": "Regex Trainer",
 			"version": "1.2.0",
 			"id": "aa47ba227a3ab70cea3323711f6ccf48cb436d91241f333e767fec8389ed68c6",
-			"repository": "https://github.com/ahmoylaw/RegexTrainer-Descriptions/raw/master/Release-1.2.0/RegexTrainer.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/blob/master/RegexTrainer/Release-1.2.0/RegexTrainer.zip",
 			"description": "Regex Trainer (based on net framework 4) that supports a complex regular expression.",
 			"author": "Ahmoy Law",
 			"homepage": "https://github.com/ahmoylaw/RegexTrainer-Descriptions"
@@ -1355,7 +1284,7 @@
 			"display-name": "Remove Duplicate Lines",
 			"version": "1.3.0.0",
 			"id": "afdf2e1e2c9e2fe01a528c40873327796d6960e2107721eaf9274dbdef1d675a",
-			"repository": "https://github.com/gurikbal/Remove_dup_lines/releases/download/1.3.0.2/Remove_dup_lines_x86.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/Remove_Duplicate_Lines/1.3.0.2/Remove_dup_lines_x86.zip",
 			"description": "Remove duplicate lines without removing empty lines.",
 			"author": "G. Singh",
 			"homepage": "https://github.com/gurikbal/Remove_dup_lines"
@@ -1365,7 +1294,7 @@
 			"display-name": "RestApiToText",
 			"version": "1.4.0.1",
 			"id": "2e39f4f8254e3015d56bec7156f13807dca28af7e4148569accda63957bb1256",
-			"repository": "https://github.com/eljefe7000/RestApiToText/raw/master/Release/v1.4.0.1/RestApiToText.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/blob/master/RestApiToText/Release/RestApiToText.zip",
 			"description": "Make REST API calls using content from an editor tab, then see the results in a new tab.\r\nUseful when you want to test a REST API or store the results of a REST call, without the need for an external REST tool.",
 			"author": "Jeffrey Smith",
 			"homepage": "https://github.com/eljefe7000/RestApiToText"
@@ -1375,7 +1304,7 @@
 			"display-name": "Reverse Lines",
 			"version": "1.0.0.0",
 			"id": "8d1f3b45dcb56e9f66b0f4fad66e6b3cd6f730f5116997d978e589e1e5dc73e0",
-			"repository": "https://github.com/querykuma/qkNppReverseLines/releases/download/v1.0.0.0/qkNppReverseLinesPlugin_v1.0.0.0_npp7.7_x86.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/qkNppReverseLines/v1.0.0.0/qkNppReverseLinesPlugin_v1.0.0.0_npp7.7_x86.zip",
 			"description": "Reverse lines in the selection or document. It works like the unix tac command.",
 			"author": "Query Kuma",
 			"homepage": "https://github.com/querykuma/qkNppReverseLines"
@@ -1385,7 +1314,7 @@
 			"display-name": "RunMe",
 			"version": "1.6.1.0",
 			"id": "9d08f2b1621903a1326b1362785fa6c4681ac2e84fa3bf34aa1f3301eaca4bdf",
-			"repository": "https://github.com/francostellari/NppPlugins/raw/main/RunMe/RunMe_dll_1v61_x32.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/RunMe/RunMe_dll_1v61_x32.zip",
 			"description": "Execute the currently open file, based on its shell association. Also allows opening an explorer or command shell at the file location. Options are available to save the current file (or all files) before execution. The executed file can be run in foreground, background, or hidden mode. Context menu entries and tool bar icons are available.",
 			"author": "Franco Stellari",
 			"homepage": "https://github.com/francostellari/NppPlugins"
@@ -1395,7 +1324,7 @@
 			"display-name": "Save as admin",
 			"version": "1.0.211",
 			"id": "42426489e84690acaef26d0c3bea6b58e4c772e7ac16b43a43e6b967033331de",
-			"repository": "https://github.com/Hsilgos/nppsaveasadmin/releases/download/1.0.211/NppSaveAsAdmin_1.0.211_x86.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/NppSaveAsAdmin/1.0.211/NppSaveAsAdmin_1.0.211_x86.zip",
 			"description": "Allows saving file as administrator with Windows UAC prompt.",
 			"author": "Yauheni Khnykin",
 			"homepage": "https://github.com/Hsilgos/nppsaveasadmin"
@@ -1405,7 +1334,7 @@
 			"display-name": "SecurePad",
 			"version": "2.4",
 			"id": "6ebd61bb4c0ad49968a387beb8ebe891f7686abee823c9c1d1f8e60d67d19fea",
-			"repository": "https://github.com/DominicTobias/SecurePad/releases/download/v2.4/SecurePad_v2.4_Win32.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/SecurePad/v2.4/SecurePad_v2.4_Win32.zip",
 			"description": "Encrypt/decrypt whole documents or selected text with your own key. Useful for storing sensitive information like logins that you don't want lying around in a plaintext file.",
 			"author": "Dominic Tobias",
 			"homepage": "https://github.com/DominicTobias/SecurePad"
@@ -1415,7 +1344,7 @@
 			"display-name": "Select N' Launch",
 			"version": "2.1",
 			"id": "bb6e5eeb6707ac469e0cecd36b021349d8a9b223c7c5351777cfdba8463cca69",
-			"repository": "https://github.com/npp-plugins/selectnlaunch/releases/download/v2.1/selectNLaunch.v2.1.bin.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/selectNLaunch/v2.1/selectNLaunch.v2.1.bin.zip",
 			"description": "Get the selected text, save it as file with the extension you customized in the system temporary directory, then call system to open it with the extension-associated program.",
 			"author": "Don HO",
 			"homepage": "https://github.com/npp-plugins/selectnlaunch"
@@ -1425,7 +1354,7 @@
 			"display-name": "Select to Clipboard",
 			"version": "1.0.3",
 			"id": "3bbc396ef98445e81b7499fc9b3817476e7752536c62d70c43a67aac1e82b200",
-			"repository": "https://github.com/KubaDee/SelectToClipboard/releases/download/v1.0.3/SelectToClipboard_x86_v1.0.3.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/SelectToClipboard/SelectToClipboard_x86_v1.0.3.zip",
 			"description": "Auto copy selected text to clipboard. You can automatically copy selected text like in PuTTY (or similar) terminal application.",
 			"author": "Jakub Dvorak",
 			"homepage": "https://github.com/KubaDee/SelectToClipboard"
@@ -1435,7 +1364,7 @@
 			"display-name": "SelectQuotedText",
 			"version": "1.1.0",
 			"id": "50068e86ab8f85d2c5361fedfb53bde767c2a8cb680eed734b1d25b0cb06c49f",
-			"repository": "https://github.com/ffes/selectquotedtext/releases/download/v1.1.0/SelectQuotedText-110-x32.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/SelectQuotedText/v1.1.0/SelectQuotedText-110-x32.zip",
 			"description": "Select the text in quotes (aka a string) based on the Scintilla lexers in Notepad++. Just press Alt+' and select the entire string under the cursor. If no string is found, it selects the current word.",
 			"author": "Frank Fesevur",
 			"homepage": "https://www.fesevur.com/selectquotedtext"
@@ -1445,27 +1374,17 @@
 			"display-name": "Session Manager",
 			"version": "1.4.4",
 			"id": "77661b508700768b08f6056c6f3fd1d1e7bfbce031f9d9bdf4c213033b4de2f1",
-			"repository": "https://github.com/chcg/npp-session-manager/releases/download/v1.4.4/SessionMgr_v1.4.4_x86.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/SessionMgr/v1.4.4/SessionMgr_v1.4.4_x86.zip",
 			"description": "Session manager. IMPORTANT: If you are upgrading from a version older than 1.2 then, immediately after the upgrade, open the Settings dialog and reconfigure your settings.",
 			"author": "Mike Foster",
 			"homepage": "https://mfoster.com/npp/SessionMgr.html"
-		},
-		{
-			"folder-name": "SherloXplorer",
-			"display-name": "SherloXplorer",
-			"version": "0.3",
-			"id": "abb3bd754d3ca2da6215800f1cbbe1e9731404faea4514cee03feea4aaba2be0",
-			"repository": "https://downloads.sourceforge.net/project/sourcecookifier/other%20plugins/SherloXplorer.v0.3.0.bin.zip",
-			"description": "Explorer-like functionality (requires .NET 2.0).",
-			"author": "UFO-pu55y",
-			"homepage": "https://sourceforge.net/projects/sourcecookifier/files/other%20plugins/"
 		},
 		{
 			"folder-name": "ShtirlitzNppPlugin",
 			"display-name": "Shtirlitz",
 			"version": "1.1.2",
 			"id": "5cbdfa3fec96e478b4002a5fc2b68b60a9a4f90a401d645845c99a5a784bb5a6",
-			"repository": "https://github.com/shtirlitz-dev/notepadpp-plugin/raw/master/32bit/ShtirlitzNppPlugin.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/blob/master/ShtirlitzNppPlugin/32bit/ShtirlitzNppPlugin.zip",
 			"description": "Adds menu listing decoding styles. Choose a style - and this style decodes the selected text (Turbo-5 style should fit in most cases). The styles themselves and all the settings can be made by Stirlitz.exe, which is in the Shtirlitz folder. It is there without advertising pictures and due to this only 428 KB.",
 			"author": "Vsevolod Lukyanin",
 			"homepage": "https://vk.com/wall203102356_293"
@@ -1475,7 +1394,7 @@
 			"display-name": "Snippets",
 			"version": "1.7.1",
 			"id": "c9f8e25a01dbd513a69a38359c64abd84ab182a72b3b48349dc13086efd3d908",
-			"repository": "https://github.com/ffes/nppsnippets/releases/download/v1.7.1/NppSnippets-171-x32.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/NppSnippets/v1.7.1/NppSnippets-171-x32.zip",
 			"description": "Adds the possibility to add code snippets to the current document by selecting them from a simple list.",
 			"author": "Frank Fesevur",
 			"homepage": "https://www.fesevur.com/nppsnippets"
@@ -1485,7 +1404,7 @@
 			"display-name": "Solution Hub",
 			"version": "3.0.1",
 			"id": "F79A742BFDE5D7BE68EE0CEF927E83DE8FE89AAE599A9ADE06404279355B574F",
-			"repository": "https://github.com/incrediblejr/nppplugins/releases/download/v3.0.1/nppplugin_solutionhub_x86.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/nppplugin_solutionhub/v3.0.1/nppplugin_solutionhub_x86.zip",
 			"description": "Base requirement for several plugins from incfred.",
 			"author": "IncredibleJunior",
 			"homepage": "https://www.incrediblejunior.com/npp_plugins/"
@@ -1495,7 +1414,7 @@
 			"display-name": "Solution Hub UI",
 			"version": "3.0.1",
 			"id": "890DA2546BAB49E5926F971DBD5B3B21D34CDB4D7A3A817C502261570E0F73C4",
-			"repository": "https://github.com/incrediblejr/nppplugins/releases/download/v3.0.1/nppplugin_solutionhub_ui_x86.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/nppplugin_solutionhub_ui/v3.0.1/nppplugin_solutionhub_ui_x86.zip",
 			"description": "Basic UI to create and setup solutions used by the SolutionHub.",
 			"author": "IncredibleJunior",
 			"homepage": "https://www.incrediblejunior.com/npp_plugins/"
@@ -1505,7 +1424,7 @@
 			"display-name": "Solution Tools",
 			"version": "3.0.1",
 			"id": "108CA6263C456A9832B07BB373F1EDAAA5ECB513277ED319873EF89E9B51CBE8",
-			"repository": "https://github.com/incrediblejr/nppplugins/releases/download/v3.0.1/nppplugin_solutiontools_x86.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/nppplugin_solutiontools/v3.0.1/nppplugin_solutiontools_x86.zip",
 			"description": "Configurable priority-based fileswitching (most commonly used when switching between .h and .cpp). Configurable what extensions map to which targets and in what order.\n'goto file' implementation, Ex. stand on a line, press whatever shortcut(or left mouseclick on the line) you have bound to the GOTO command on a line like :\r\n#include \"somefile.h\"\r\nor\r\nrequire 'some_path/to_a_luafile'",
 			"author": "IncredibleJunior",
 			"homepage": "https://www.incrediblejunior.com/npp_plugins/"
@@ -1515,7 +1434,7 @@
 			"display-name": "Source Cookifier",
 			"version": "0.7.3",
 			"id": "ccc0e93ddb580511b5c2b4a3363713ef0cd96187515e972362bf5b6b235430de",
-			"repository": "https://downloads.sourceforge.net/project/sourcecookifier/0.7.3/SourceCookifier.v0.7.3.bin.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/SourceCookifier/SourceCookifier.v0.7.3.bin.zip",
 			"description": "Use Exuberant Ctags to parse either only the currently activated source file or multiple files. The results are shown and can be browsed in a treeview inside of a dockable window. (Requires .NET 2.0) NOTE: The 32 bit version has been discontinued.",
 			"author": "UFO-Pu55y",
 			"homepage": "https://sourceforge.net/projects/sourcecookifier/"
@@ -1525,7 +1444,7 @@
 			"display-name": "SpeechPlugin",
 			"version": "0.4.0.0",
 			"id": "9b647ba92834a961e980dfd886ace54fc8f972b01ff917cef0ba3f47361e5b40",
-			"repository": "https://github.com/chcg/SpeechPlugin/releases/download/v0.4.0/SpeechPlugin_v0.4.0_Win32.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/SpeechPlugin/v0.4.0/SpeechPlugin_v0.4.0_Win32.zip",
 			"description": "No kidding, Notepad++ speaks now. With SpeechPlugin, you can make Notepad++ dictate your text or source code. Of course, speakers are necessary.",
 			"author": "Jim Xochellis",
 			"homepage": "https://github.com/chcg/SpeechPlugin"
@@ -1535,27 +1454,17 @@
 			"display-name": "Spell-Checker",
 			"version": "1.3.3.0",
 			"id": "4306120f5dad3952a24d2a38bcd611e1c15c713d6a2a1cfab3b847588f6eb859",
-			"repository": "https://downloads.sourceforge.net/sourceforge/npp-plugins/SpellChecker_1_3_3_UNI_dll.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/SpellChecker/SpellChecker_1_3_3_UNI_dll.zip",
 			"description": "Correct your typos in your language. Before using, must install GNU Aspell and a dictionary for your language(s) in the Aspell directory. Aspell and dictionaries are available from http://aspell.net/win32",
 			"author": "Jens Lorenz",
 			"homepage": "https://sourceforge.net/projects/npp-plugins/files/Spell-Checker/"
-		},
-		{
-			"folder-name": "SQLinFormNpp",
-			"display-name": "SQLinForm",
-			"version": "6.23.3.24",
-			"id": "0e87bf66b78b0e6ea5cee0bc306614500c5e28469fe8d2d287dc63c78ea337f7",
-			"repository": "https://www.sqlinform.com/npp/SQLinFormNpp_6.23.03.zip",
-			"description": "Formats plain SQL, SQL embedded in program code, SQL snippets, and SQL statements with syntax errors.\r\nHas a powerful code folding feature and formats your SQL as you Type. Supports all major DB like Oracle, DB2, SQL Server, Teradata, Netezza, MySQL, Sybase, MS Access, etc. Incorporates its own multi-DB parser engine. No additional software required.",
-			"author": "Guido Thelen",
-			"homepage": "https://www.sqlinform.com"
 		},
 		{
 			"folder-name": "SurroundSelection",
 			"display-name": "SurroundSelection",
 			"version": "1.4.1",
 			"id": "38ef3528794a5e54224580844ce8cb6d92e1991662b40d330f41402bc2dc3a7e",
-			"repository": "https://github.com/dail8859/SurroundSelection/releases/download/v1.4.1/SurroundSelection_v1.4.1.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/SurroundSelection/v1.4.1/SurroundSelection_v1.4.1.zip",
 			"description": "Automatically surround the selection in quotes/brackets/parenthesis/etc.",
 			"author": "Justin Dailey",
 			"homepage": "https://github.com/dail8859/SurroundSelection"
@@ -1565,7 +1474,7 @@
 			"display-name": "TagLEET",
 			"version": "1.3.2.0",
 			"id": "bdf948c12b336630809391575b47457dcf34c3e20c944ec98b396bbc3cb8ce8e",
-			"repository": "https://sourceforge.net/projects/tagleet/files/v1.3.2/TagLEET_1.3.2.0.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/TagLEET/v1.3.2/TagLEET_1.3.2.0.zip",
 			"description": "Ctags browser. Look up the definition of variables and functions in source code. Can also find include files if ctags file was generated correctly. Ultra fast with low memory usage. Allow working with a single ctags file for very large projects.",
 			"author": "Gur Stavi",
 			"homepage": "https://sourceforge.net/projects/tagleet/"
@@ -1575,7 +1484,7 @@
 			"display-name": "TagsView",
 			"version": "1.0.3",
 			"id": "481561400b1ee1d87c72bf39283412fdc2912a8fc6ad72a5fd96ac71fa27fb67",
-			"repository": "https://downloads.sourceforge.net/project/tagsview/TagsView%20for%20Notepad%2B%2B/TagsView_Npp_03beta.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/TagsView/TagsView_Npp_03beta.zip",
 			"description": "Provides user interface for ctags parsed results.\r\nCurrently supported editors are Notepad++ and AkelPad.\r\nPowered by Win32++ (by David Nash) and by Exuberant Ctags (by Darren Hiebert).\r\nInspired by FunctionList plugin (by Jens Lorenz) for Notepad++ text editor (by Don Ho).",
 			"author": "Dovgan Vitaliy",
 			"homepage": "https://sourceforge.net/projects/tagsview/"
@@ -1585,7 +1494,7 @@
 			"display-name": "TakeNotes",
 			"version": "1.2.6.0",
 			"id": "e5018dd7f5f4adee4f71ef634a69a6f92b0acaa4c4e35a69f6511780aaae0a45",
-			"repository": "https://github.com/francostellari/NppPlugins/raw/main/TakeNotes/TakeNotes_dll_1v26_x32.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/TakeNotes/TakeNotes_dll_1v26_x32.zip",
 			"description": "Helps people who like to use Notepad++ for jotting quick notes. Instead of using unnamed 'new ?' files, this plugins allows to quickly create new empty files in a folder of choice. The file names may be custom generated using a mask and may contain details such as the user name, date, and time of creation so that unique files may be generated. Additionally, the plugin allows to load exiting notes in the folder of choice, save existing files as a note, and open the last saved note quickly. Please refer to the Options dialog box for more details. It is strongly recommended to use this plugin in combination with AutoSave to make sure that you never loose a note.",
 			"author": "Franco Stellari",
 			"homepage": "https://github.com/francostellari/NppPlugins"
@@ -1595,7 +1504,7 @@
 			"display-name": "Task List",
 			"version": "2.5",
 			"id": "dcf2c13e90874bbd9bcf7ebbbc2be1130dd8573c2b7beb548e376d9dee870174",
-			"repository": "https://github.com/Megabyteceer/npp-task-list/releases/download/v2.5.0/NppTaskList_v2.5.0_Win32.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/NppTaskList/v2.5.0/NppTaskList_v2.5.0_Win32.zip",
 			"description": "Automatically scans the open document and adds all \"TODO:*\" items to your task list, a window pane docked on the right. Double-clicking an item in the list will take you to that line in the code.",
 			"author": "blitowitz",
 			"homepage": "https://code.google.com/p/npp-task-list/"
@@ -1605,7 +1514,7 @@
 			"display-name": "TFS Work Item",
 			"version": "1.0",
 			"id": "3aa58f7cddb8af06db017b7b24d5ee660277e84d2ba840c674e9c1791cccec5e",
-			"repository": "https://downloads.sourceforge.net/project/npptfs/NppTFS.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/NppTFS/NppTFS.zip",
 			"description": "Attaches opened (in the current tab) file to the TFS work item.\r\nTested only on TFS 2010 and requires .NET 4.",
 			"author": "Eugene Leibovich",
 			"homepage": "https://sourceforge.net/projects/npptfs"
@@ -1615,27 +1524,17 @@
 			"display-name": "Tidy2",
 			"version": "0.2",
 			"id": "59cf24719009f0a62ad4414faa9b5dac7dfd637c12a13c024492fee1a5eca3ab",
-			"repository": "https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/npp-tidy2/Tidy2_0.2.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/Tidy/Tidy2_0.2.zip",
 			"description": "HTML Tidy with support for HTML5. Tidy up HTML or XML, pretty print.\r\nEnables 3 different configuration presets.",
 			"author": "Dave Brotherstone",
 			"homepage": "https://code.google.com/p/npp-tidy2/"
-		},
-		{
-			"folder-name": "NppToolBucket",
-			"display-name": "ToolBucket",
-			"version": "1.10.6622.41336",
-			"id": "6d28d2a74d9ab77cb451380d3482a15760bd1f353cf0a808a35fc5a989f8f781",
-			"repository": "https://phdesign.com.au/assets/files/NppToolBucket-1.10.zip",
-			"description": "Requires .NET 3.5\r\nMulti-line search and replace dialog.\r\nChange indentation dialog.\r\nGenerate GUID.\r\nGenerate Lorem Ipsum.\r\nCompute MD5 hash.\r\nCompute SHA1 hash.\r\nBase 64 encode.\r\nBase 64 decode.",
-			"author": "Paul Heasley",
-			"homepage": "https://phdesign.com.au/npptoolbucket/"
 		},
 		{
 			"folder-name": "TopMost",
 			"display-name": "TopMost",
 			"version": "1.4.2.0",
 			"id": "fadd310b0ca0ef7f5c538e41b744e2011c8d7cb32a9f6ce70395a22c6f62b897",
-			"repository": "https://github.com/francostellari/NppPlugins/raw/main/TopMost/TopMost_dll_1v42_x32.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/TopMost/TopMost_dll_1v42_x32.zip",
 			"description": "Allows setting the main Notepad++ window as a topmost window so it can stay on top of other windows even when it is not active. Syncs with Notepad++'s own stay on top functionality and allows to remember the setting between restarts as well as to show a toolbar button.",
 			"author": "Franco Stellari",
 			"homepage": "https://github.com/francostellari/NppPlugins"
@@ -1645,7 +1544,7 @@
 			"display-name": "Tortoise SVN",
 			"version": "3.0.1",
 			"id": "6924B5D1E620E848D289E14AB9712387A5C5D979F878EE25C219F5C1A1346759",
-			"repository": "https://github.com/incrediblejr/nppplugins/releases/download/v3.0.1/nppplugin_svn_x86.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/nppplugin_svn/v3.0.1/nppplugin_svn_x86.zip",
 			"description": "Main operations for SVN, with a concept of a root solution directory. Note: Uses Tortoise SVN internally so you have to have this installed. Available at http://tortoisesvn.tigris.org/",
 			"author": "IncredibleJunior",
 			"homepage": "https://www.incrediblejunior.com/npp_plugins/"
@@ -1655,7 +1554,7 @@
 			"display-name": "Translate",
 			"version": "3.1.1.0",
 			"id": "f5b84324f494ffbfb125ea44d33dc71d82e03696366452805b9ee88ccf506b99",
-			"repository": "https://sourceforge.net/projects/npptranslate/files/bin/Translate_3.1.1.0.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/Translate/Translate_3.1.1.0.zip",
 			"description": "Provides quick translation of selected text to your language of choice. Just select the text and press Ctrl+Alt+Z. Supports multiple languages.\r\nSupports two translation engines:\r\n1) MyMemory (Free)\r\n2) BING (Free but requires registration to obtain Client ID and Secret).\r\nSee Engine Settings after installation.\r\nRequires .NET Framework 3.5.",
 			"author": "Shaleen Mishra",
 			"homepage": "https://sourceforge.net/projects/npptranslate/"
@@ -1665,7 +1564,7 @@
 			"display-name": "URL Encode/Decode Plugin",
 			"version": "1.2.0.0",
 			"id": "6ab0ed27036f40eccc529ce6aa4373b2ddf71a39a4133d1243cb1e158f9b3dd8",
-			"repository": "https://github.com/SinghRajenM/nppURLPlugin/releases/download/1.2.0.0/urlPlugin_x86.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/urlPlugin/1.2.0.0/urlPlugin_x86.zip",
 			"description": "Hopefully a decent URL Encoder and Decoder plug-in for Notepad++ which helps to make developer's life easier by providing facility to encode/decode the URL within Notepad++. \r\n\r\nHow it works:\r\n1. Configure setting from menu (Plugins->URL Plugin->URL Plugin Settings). It is not mandatory, but recommended.\r\n2. Select text/URL which you want to encode/decode.\r\n3. Perform your task via Plugins->URL Plugin->Encode/Decode URL.\r\n\r\n",
 			"author": "Rajendra Singh",
 			"homepage": "https://github.com/SinghRajenM/nppURLPlugin"
@@ -1675,7 +1574,7 @@
 			"display-name": "Visual Studio Line Copy",
 			"version": "1.0.0.2",
 			"id": "f50568de4a488f37667b93b6b6a14a95165a3bd5636e8f4bcbcab586d95df95e",
-			"repository": "https://sourceforge.net/projects/notepad-visualstudiolinecopy/files/VisualStudioLineCopy%20Win32%20v1.0.0.2.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/VisualStudioLineCopy/VisualStudioLineCopy%20Win32%20v1.0.0.2.zip",
 			"description": "Adds two commands to Notepad++ CopyAllowLine and CutAllowLine, which adds Visual Studio style copy/cutting to Notepad++.",
 			"author": "Mackenzie Zastrow (forked by Derek Brown)",
 			"homepage": "https://sourceforge.net/projects/notepad-visualstudiolinecopy/"
@@ -1685,7 +1584,7 @@
 			"display-name": "WakaTime",
 			"version": "5.1.1",
 			"id": "584bfdfb84a6e578126c81388753542a6aaa3d8e41213cda2ad28f1fe91f5af3",
-			"repository": "https://github.com/wakatime/notepadpp-wakatime/releases/download/5.1.1/WakaTime-5.1.1-x86.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/WakaTime/5.1.1/WakaTime-5.1.1-x86.zip",
 			"description": "Automatic time tracking and metrics generated from your programming activity.\r\nVisit https://wakatime.com to see your logged time.",
 			"author": "WakaTime",
 			"homepage": "https://github.com/wakatime/notepadpp-wakatime"
@@ -1695,7 +1594,7 @@
 			"display-name": "WebEdit",
 			"version": "2.1",
 			"id": "60622e73f01a1fdb5462c2ba416649c404c39db18100826301f4ad74b4e7da46",
-			"repository": "https://master.dl.sourceforge.net/project/npp-plugins/WebEdit/WebEdit%202.1/WebEdit.v2.1.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/WebEdit/WebEdit.v2.1.zip",
 			"description": "WebEdit is another attempt to integrate a user-configurable code template collection into Notepad++. With WebEdit you have the following options:\r\n create a menu command for pasting some text, possibly surrounding the current selection, if any. Imagine selecting a word and putting \"&lt;p&gt;...&lt;/p&gt;\" around it with a single hotkey. You can create up to 30 such commands and assign keyboard shortcuts to them, or simply use the menu;\r\n the same 30 commands can also be represented by buttons on the main toolbar for quick access with the mouse;\r\n you can create a set of \"tags\" or abbreviations. Type one of them, then press Alt+Enter and it will be replaced with the corresponding block of text. If the replacement consists of multiple lines, all of them will be indented same as the first one. The caret will be placed in a predefined position within the new text. You can have the current clipboard contents (e.g. a function name) pasted on expansion.\r\nThe plugin configuration is stored in the WebEdit.ini file. Use \"WebEdit\\Edit Config\" command from the \"Plugins\" menu to open the file in Notepad++ for editing.\r\nAll keyboard shortcuts can be assigned/modified using the standard Shortcut Mapper. For more information see the WebEdit.txt help file.",
 			"author": "Alexander Iljin",
 			"homepage": "https://sourceforge.net/projects/npp-plugins/files/WebEdit/WebEdit%202.1/"
@@ -1705,7 +1604,7 @@
 			"display-name": "Window Manager",
 			"version": "1.2.2.0",
 			"id": "edfcfa2d82ea0eaa68beb3dcba58c3c830c313705a25d249222c1d3a85f5ddfc",
-			"repository": "https://downloads.sourceforge.net/sourceforge/npp-plugins/WindowManager_1_2_2_UNI_dll.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/WindowManager/WindowManager_1_2_2_UNI_dll.zip",
 			"description": "Gives a short overview of open documents. This overview is dockable and gives the same capability as the tabs have. Left-click on a list item selects the document. Right-click opens the tab context menu. When documents are opened in main and second view (by duplicate or move), two lists are shown in dialog window.",
 			"author": "Jens Lorenz",
 			"homepage": "https://sourceforge.net/projects/npp-plugins/files/WindowManager/"
@@ -1715,7 +1614,7 @@
 			"display-name": "WLangLexer",
 			"version": "4.1.0.16",
 			"id": "f7108be1ced52b98553e80674ed5fd493445ce668c2444648477632c0c0da0d3",
-			"repository": "https://downloads.sourceforge.net/project/wdscript/Syntax%20Highlighting/WDScript%202.5%20Notepad%2B%2B%20Syntax%20File/NPP.Plugin.WLangLexer.v4.1.0.16-wd16038f.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/NPP.Plugin.WLangLexer/NPP.Plugin.WLangLexer.v4.1.0.16-wd16038f.zip",
 			"description": "Lexer for the WDScript language: WDScript and Linux portability of WDScript project. WDScript is a CGI-like PHP where native language is W-Langage from PCSoft (English and French). Can be used to access Hyperfile databases from a web server.",
 			"author": "tpruvot",
 			"homepage": "https://sourceforge.net/projects/wdscript/"
@@ -1725,7 +1624,7 @@
 			"display-name": "XBrackets Lite",
 			"version": "1.3.1",
 			"id": "385588c50edde84fbb78617d6118d1ffea116883d81ef8f74dc3bd789a2e8742",
-			"repository": "https://github.com/d0vgan/npp-XBracketsLite/releases/download/v131/XBrackets_v131_dll.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/XBrackets/v131/XBrackets_v131_dll.zip",
 			"description": "Allows autocompletion of brackets ([{\"\"}])\r\nInserts corresponding right bracket when the left bracket is typed. Uses \"smart\" autocompletion: * next character is analysed for ([{ brackets; * next &amp; previous characters are analysed for \" quote.",
 			"author": "Vitaliy Dovgan",
 			"homepage": "https://github.com/d0vgan/npp-XBracketsLite"
@@ -1735,7 +1634,7 @@
 			"display-name": "XML Tools",
 			"version": "3.1.1.13",
 			"id": "9521d91be847a9c9fcfc6cb6ea5455fd7dfe840f4f12a8fd95e5137116dbd6c3",
-			"repository": "https://github.com/morbac/xmltools/releases/download/3.1.1.13/XMLTools-3.1.1.13-x86.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/XMLTools/3.1.1.13/XMLTools-3.1.1.13-x86.zip",
 			"description": "Small set of useful tools for editing XML. Plugin is MSXML-based. The features are:\r\n- XML syntax Check\r\n- XML Schema (XSD) + DTD Validation\r\n- XML tag autoclose\r\n- Pretty print\n- Linarize XML\r\n- Current XML Path\r\n- Conversion XML &amp;lt;-&amp;gt; Text\n- Comment / Uncomment\r\n- XPath expression evaluation",
 			"author": "Nicolas Crittin",
 			"homepage": "https://github.com/morbac/xmltools"
@@ -1745,7 +1644,7 @@
 			"display-name": "XPatherizerNPP",
 			"version": "2.10",
 			"id": "92e8393a2bf94b27a8084d8d84734616a56ea51f877bf5cc62b6d494642e76b5",
-			"repository": "https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/xpatherizernpp/XPatherizerNPP-2.10.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/XPatherizerNPP/XPatherizerNPP-2.10.zip",
 			"description": "Analyze multiple XPath queries with reverse lookup.\r\nFeatures:\r\nAnalyze multiple XPath queries with one keypress.\r\nAbility to only search on selected text.\r\nAbility to Auto Search as you type your xPath queries.\r\nReverse lookup from results.\r\nBeautify XML documents.\r\nSaved queries for files left open in NPP.\r\nCan save and load XML files with XPath queries into a single file.\r\nSelect multiple results nodes for exporting.\r\nExport results to new XML file.\r\nRemove results from the XML document.\r\nCan display information about Attributes on the Parent node results.",
 			"author": "bguenthner",
 			"homepage": "https://code.google.com/p/xpatherizernpp/"
@@ -1755,27 +1654,17 @@
 			"display-name": "Zen Coding - Python",
 			"version": "0.7.0.1",
 			"id": "a781ee5c76ebc543b412a41e024c2d96f9a6edcae591f27868e190a48bc7bba6",
-			"repository": "https://downloads.sourceforge.net/project/npppythonscript/ZenCoding-Python/ZenCoding-Python-0.7.0.1a.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/ZenCoding-Python/ZenCoding-Python-0.7.0.1a.zip",
 			"description": "Implementation of the Zen Coding method by Sergey Chikuyonok. Expand HTML, CSS, XML, XSLT and XSD from abbreviations\ntr#head1.header&gt;td*2 becomes &lt;tr id=\"head1\" class=\"header\"&gt;\n &lt;td&gt;&lt;/td&gt;\n &lt;td&gt;&lt;/td&gt;\n&lt;/tr&gt;\nUses the Python Script plugin.",
 			"author": "Dave Brotherstone",
 			"homepage": "https://github.com/bruderstein/ZenCoding-Python"
-		},
-		{
-			"folder-name": "zoomdisabler",
-			"display-name": "Zoom Disabler",
-			"version": "1.2.0",
-			"id": "eb49c4fce581fa63b024a3a0454ccc49d082b9524c0cc9a0d5c25544e264da55",
-			"repository": "https://github.com/StanDog/npp-zoomdisabler/raw/master/RELEASES/zoomdisabler_1.2.0.zip",
-			"description": "Tired of zooming your document everytime you just want to scroll but accidentally still holding the [Ctrl] key? Then this is what you want! It disables mouse zoom, keyboard zoom, or both.",
-			"author": "Stanislav Eckert",
-			"homepage": "https://github.com/StanDog/npp-zoomdisabler"
 		},
 		{
 			"folder-name": "NppTextFX",
 			"display-name": "NppTextFX2",
 			"version": "1.4.1",
 			"id": "9e9372e0948d01946134e279d1cd534337dd19c441ec5622c0cbb7435498cdf5",
-			"repository": "https://github.com/rainman74/NPPTextFX2/releases/download/1.4.1/NppTextFX2.1.4.1.x86.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/NppTextFX/1.4.1/NppTextFX2.1.4.1.x86.zip",
 			"description": "TextFX2 is a Notepad++ plugin which performs a variety of common conversions on selected text.",
 			"author": "Karlheinz Graf",
 			"homepage": "https://github.com/rainman74/NPPTextFX2"
@@ -1786,7 +1675,7 @@
 			"version": "1.0",
 			"npp-compatible-versions": "[7.0,]",
 			"id": "58cf80c181b05264cd80d031f0a6409d49c9571900e0bd791dda486bc360b573",
-			"repository": "https://github.com/leonardchai/FoldingLineHider/releases/download/v1.0/FoldingLineHider1.0.x86.zip",
+			"repository": "https://gitee.com/awake559/notepad-plus-plus-plugin/raw/master/FoldingLineHider/v1.0/FoldingLineHider1.0.x86.zip",
 			"description": "This Notepad++ plugin can hide the unsightly folding line, and for convenience, you can fold and unfold the current level using the Alt + Left/Right keys.",
 			"author": "leonardchai@gmail.com",
 			"homepage": "https://github.com/leonardchai/FoldingLineHider"
