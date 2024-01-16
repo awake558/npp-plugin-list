@@ -7,5 +7,7 @@ The official collection of Notepad++ plugins. https://github.com/notepad-plus-pl
 ## use it
 
 replace to below two files
+
 npp-plugin-list/npp/8.6.1/x64/notepad++/notepad++.exe
+
 npp-plugin-list/npp/8.6.1/x64/notepad++/plugins/Config/nppPluginList.dll
